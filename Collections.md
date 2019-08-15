@@ -61,3 +61,15 @@
 - Hardened Diamond (Set)
 - Enchanted Diamond Block
 - Perfect Set - Tier I
+
+### Lapis Lazuli
+
+- Lapis Minion
+- Experience Bottle
+- Enchanted Book (Experience II)
+- Enchanted Lapis Lazuli
+- Grand Experience Bottle
+- Experience Potions
+- Enchanted Lapis Block
+- Titanic Experience Bottle
+- Experience Artifact
