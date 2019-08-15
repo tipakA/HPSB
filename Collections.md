@@ -73,3 +73,15 @@
 - Enchanted Lapis Block
 - Titanic Experience Bottle
 - Experience Artifact
+
+### Emerald
+
+- Emerald Minion
+- Talisman of Coins
+- Magnetic Talisman
+- Enchanted Emerald
+- Emerald Rind (CS)
+- Personal Bank Upgrade
+- Enchanted Emerald Block
+- Emerald Blade
+- Emerald Armor
