@@ -37,3 +37,15 @@
 - Enchanted Iron Block
 - Golem Sword
 - Enchanted Hopper
+
+### Gold 
+
+- Gold Minion
+- Cleaver
+- Enchanted Book (Looting II)
+- Enchanted Gold
+- Absorption Potion
+- Enchanted Book (Scavenger II)
+- Enchanted Gold Block
+- Enchanted Book (Fortune II)
+- Enchanted Clock (CS)
