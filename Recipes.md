@@ -2,27 +2,27 @@
 
 ## Minions
 
-### Cobble
+### Cobblestone
 
-- Cobble Minion I  
+- Cobblestone Minion I  
 ![cobbleMinion1](/img/minions/minionCobble1.png)
-- Cobble Minion II  
+- Cobblestone Minion II  
 ![cobbleMinion2](/img/minions/minionCobble2.png)
-- Cobble Minion III  
+- Cobblestone Minion III  
 ![cobbleMinion3](/img/minions/minionCobble3.png)
-- Cobble Minion IV  
+- Cobblestone Minion IV  
 ![cobbleMinion4](/img/minions/minionCobble4.png)
-- Cobble Minion V  
+- Cobblestone Minion V  
 ![cobbleMinion5](/img/minions/minionCobble5.png)
-- Cobble Minion VI  
+- Cobblestone Minion VI  
 ![cobbleMinion6](/img/minions/minionCobble6.png)
-- Cobble Minion VII  
+- Cobblestone Minion VII  
 ![cobbleMinion7](/img/minions/minionCobble7.png)
-- Cobble Minion VIII  
+- Cobblestone Minion VIII  
 ![cobbleMinion8](/img/minions/minionCobble8.png)
-- Cobble Minion IX  
+- Cobblestone Minion IX  
 ![cobbleMinion9](/img/minions/minionCobble9.png)
-- Cobble Minion X  
+- Cobblestone Minion X  
 ![cobbleMinion10](/img/minions/minionCobble10.png)
-- Cobble Minion XI  
+- Cobblestone Minion XI  
 ![cobbleMinion11](/img/minions/minionCobble11.png)
