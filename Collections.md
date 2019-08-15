@@ -1,6 +1,7 @@
 # Collections
 
 - [Collections](#collections)
+  - [Farming](#farming)
   - [Mining](#mining)
     - [Cobble](#cobble)
     - [Coal](#coal)
@@ -18,6 +19,11 @@
     - [Netherrack](#netherrack)
     - [Sand](#sand)
     - [End Stone](#end-stone)
+  - [Combat](#combat)
+  - [Foraging](#foraging)
+  - [Fishing](#fishing)
+
+## Farming
 
 ## Mining
 
@@ -144,4 +150,8 @@
 
 ### End Stone
 
-##
+## Combat
+
+## Foraging
+
+## Fishing
