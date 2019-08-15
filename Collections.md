@@ -82,6 +82,16 @@
 
 ### Carrot
 
+- Carrot Minion
+- Pet Food (CS)
+- Catching Egg (CS)
+- Enchanted Carrot
+- Enchanted Carrot on a Stick
+- Super Catching Egg (CS)
+- Enchanted Golden Carrot
+- Carrot Candy (CS)
+- Mega Catching Egg
+
 ### Potato
 
 ### Pumpkin
