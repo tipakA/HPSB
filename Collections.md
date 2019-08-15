@@ -1,5 +1,22 @@
 # Collections
 
+  - [Cobble](#cobble)
+  - [Coal](#coal)
+  - [Iron](#iron)
+  - [Gold](#gold)
+  - [Diamond](#diamond)
+  - [Lapis Lazuli](#lapis-lazuli)
+  - [Emerald](#emerald)
+  - [Redstone](#redstone)
+  - [Nether Quartz](#nether-quartz)
+  - [Obsidian](#obsidian)
+  - [Glowstone Dust](#glowstone-dust)
+  - [Gravel](#gravel)
+  - [Ice](#ice)
+  - [Netherrack](#netherrack)
+  - [Sand](#sand)
+  - [End Stone](#end-stone)
+
 ## Mining
 
 ### Cobble
