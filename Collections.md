@@ -94,6 +94,16 @@
 
 ### Potato
 
+- Potato Minion
+- Portal to the Barn
+- Vaccine Talisman
+- Enchanted Potato
+- Venomous Potion
+- 1000 Farming Experience
+- Enchanteda Baked Potato
+- Hot Potato Book
+- 10000 Farming Experience
+
 ### Pumpkin
 
 ### Melon
