@@ -52,7 +52,7 @@
 
 ### Diamond 
 
-- Diamond Minion (C)
+- Diamond Minion
 - Enchanted Book (Execute IV))
 - Portal to the Deep Caverns
 - Enchanted Diamond
