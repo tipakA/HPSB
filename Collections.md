@@ -108,6 +108,16 @@
 
 ### Melon
 
+- Melon Minion
+- 50 Farming Experience
+- 125 Farming Experience
+- Enchanted Melon
+- Enchanted Glistering Melon
+- Enchanted Melon Block
+- 5000 Farming Experience
+- 10000 Farming Experience
+- 25000 Farming Experience
+
 ### Seeds
 
 ### Mushroom
