@@ -85,3 +85,16 @@
 - Enchanted Emerald Block
 - Emerald Blade
 - Emerald Armor
+
+### Redstone
+
+- Redstone Minion
+- Small Talisman Bag Upgrade
+- Enchanted Book (Efficiency IV)
+- Enchanted Redstone
+- Compass Talisman (CS)
+- Weather Stick
+- Medium Talisman Bag Upgrade
+- Enchanted Redstone Block
+- Large Talisman Bag Upgrade
+- Greater Talisman Bag Upgrade
