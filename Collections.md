@@ -20,6 +20,16 @@
     - [Sand](#sand)
     - [End Stone](#end-stone)
   - [Combat](#combat)
+    - [Rotten Flesh](#rotten-flesh)
+    - [Bone](#bone)
+    - [String](#string)
+    - [Spider Eye](#spider-eye)
+    - [Gunpowder](#gunpowder)
+    - [Ender Pearl](#ender-pearl)
+    - [Ghast Tear](#ghast-tear)
+    - [Slimeball](#slimeball)
+    - [Blaze Rod](#blaze-rod)
+    - [Magma Cream](#magma-cream)
   - [Foraging](#foraging)
     - [Oak Wood](#oak-wood)
     - [Spruce Wood](#spruce-wood)
@@ -167,6 +177,26 @@
 ### End Stone
 
 ## Combat
+
+### Rotten Flesh
+
+### Bone
+
+### String
+
+### Spider Eye
+
+### Gunpowder
+
+### Ender Pearl
+
+### Ghast Tear
+
+### Slimeball
+
+### Blaze Rod
+
+### Magma Cream
 
 ## Foraging
 
