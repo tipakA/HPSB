@@ -98,3 +98,19 @@
 - Enchanted Redstone Block
 - Large Talisman Bag Upgrade
 - Greater Talisman Bag Upgrade
+
+### Nether Quartz
+
+### Obsidian
+
+### Glowstone Dust
+
+### Gravel
+
+### Ice
+
+### Netherrack
+
+### Sand
+
+### End Stone
