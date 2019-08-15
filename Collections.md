@@ -2,6 +2,23 @@
 
 - [Collections](#collections)
   - [Farming](#farming)
+    - [Wheat](#wheat)
+    - [Carrot](#carrot)
+    - [Potato](#potato)
+    - [Pumpkin](#pumpkin)
+    - [Melon](#melon)
+    - [Seeds](#seeds)
+    - [Mushroom](#mushroom)
+    - [Cocoa Beans](#cocoa-beans)
+    - [Cactus](#cactus)
+    - [Sugar Cane](#sugar-cane)
+    - [Feather](#feather)
+    - [Leather](#leather)
+    - [Raw Porkchop](#raw-porkchop)
+    - [Raw Chicken](#raw-chicken)
+    - [Mutton](#mutton)
+    - [Raw Rabbit](#raw-rabbit)
+    - [Nether Wart](#nether-wart)
   - [Mining](#mining)
     - [Cobble](#cobble)
     - [Coal](#coal)
@@ -50,6 +67,40 @@
     - [Sponge](#sponge)
 
 ## Farming
+
+### Wheat
+
+### Carrot
+
+### Potato
+
+### Pumpkin
+
+### Melon
+
+### Seeds
+
+### Mushroom
+
+### Cocoa Beans
+
+### Cactus
+
+### Sugar Cane
+
+### Feather
+
+### Leather
+
+### Raw Porkchop
+
+### Raw Chicken
+
+### Mutton
+
+### Raw Rabbit
+
+### Nether Wart
 
 ## Mining
 
