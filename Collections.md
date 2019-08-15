@@ -1,5 +1,6 @@
 # Collections
 
+- [Collections](#collections)
   - [Mining](#mining)
     - [Cobble](#cobble)
     - [Coal](#coal)
@@ -142,3 +143,5 @@
 ### Sand
 
 ### End Stone
+
+##
