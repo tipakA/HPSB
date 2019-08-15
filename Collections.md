@@ -29,7 +29,7 @@
 
 ### Cobble
 
-- Cobblestone Minion
+- [Cobblestone Minion](/Recipes.md/#cobble)
 - Stone Platform
 - Auto Smelter
 - Enchanted Cobblestone
