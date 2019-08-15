@@ -145,6 +145,18 @@
 
 ### Sugar Cane
 
+- Sugar Cane Minion
+- Speed Talisman
+- 50 Farming Experience
+- Enchanted Sugar
+- Enchanted Paper  
+  Speed Talisman => Speed Ring Upgrade
+- Enchanted Bookshelf
+- Random Book (CS)
+- Enchanted Sugar Cane  
+  Speed Ring => Speed Artifact Upgrade
+- Speedster Set
+
 ### Feather
 
 ### Leather
