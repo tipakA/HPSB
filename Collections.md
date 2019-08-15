@@ -105,6 +105,16 @@
 
 ### Glowstone Dust
 
+- Glowstone Minion
+- Portal to Blazing Fortress
+- 75 Mining Experience
+- Enchanted Glowstone Dust
+- 750 Mining Experience
+- Enchanted Glowstone
+- Enchanted Redstone Lamp
+- Glowstone Hat (CS)
+- 15000 Mining Experience
+
 ### Gravel
 
 ### Ice
