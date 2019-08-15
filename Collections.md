@@ -130,6 +130,13 @@
 
 ### Seeds
 
+- Dirt Trade
+- Clay Trade
+- Long Grass Trade
+- Fern Trade
+- Dead Bush Trade
+- Double Tallgrass
+
 ### Mushroom
 
 ### Cocoa Beans
