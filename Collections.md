@@ -159,6 +159,16 @@
 
 ### Feather
 
+- Enchanted Book (Projectile Protection IV)
+- Enchanted Book (Feather Falling IV)
+- Archery Potion
+- Feather Talisman
+- Enchanted Feather
+- Enchanted Book (Aiming IV)
+- Feather Ring
+- Enchanted Book (Snipe II)
+- Feather Artifact
+
 ### Leather
 
 ### Raw Porkchop
