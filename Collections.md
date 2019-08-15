@@ -70,6 +70,16 @@
 
 ### Wheat
 
+- Wheat Minion
+- Enchanted Book (Harvesting V)
+- Farm Suit
+- Farming Talisman
+- Enchanted Bread
+- Farming Island
+- Enchanted Hay Bale
+- Harvesting Upgrade (CS)
+- Farm Armor
+
 ### Carrot
 
 ### Potato
