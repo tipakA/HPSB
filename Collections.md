@@ -162,6 +162,16 @@
 
 ### Oak Wood
 
+- Oak Minion
+- Oak Leaves Trade
+- Leaflet Set
+- Small Storage
+- Forest Biome Stick
+- Enchanted Oak Wood
+- Medium Storage
+- Wood Affinity Talisman
+- Large Storage
+
 ### Spruce Wood
 
 ### Birch Wood
