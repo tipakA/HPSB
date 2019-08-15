@@ -28,6 +28,16 @@
     - [Acacia Wood](#acacia-wood)
     - [Jungle Wood](#jungle-wood)
   - [Fishing](#fishing)
+    - [Raw Fish](#raw-fish)
+    - [Raw Salmon](#raw-salmon)
+    - [Clownfish](#clownfish)
+    - [Pufferfish](#pufferfish)
+    - [Prismarine Shard](#prismarine-shard)
+    - [Prismarine Crystals](#prismarine-crystals)
+    - [Clay](#clay)
+    - [Lily Pad](#lily-pad)
+    - [Ink Sack](#ink-sack)
+    - [Sponge](#sponge)
 
 ## Farming
 
@@ -183,3 +193,23 @@
 ### Jungle Wood
 
 ## Fishing
+
+### Raw Fish
+
+### Raw Salmon
+
+### Clownfish
+
+### Pufferfish
+
+### Prismarine Shard
+
+### Prismarine Crystals
+
+### Clay
+
+### Lily Pad
+
+### Ink Sack
+
+### Sponge
