@@ -171,6 +171,16 @@
 
 ### Leather
 
+- Cow Minion
+- Cow Head
+- Small Backpack
+- Enchanted Raw Beef
+- Medium Backpack
+- Enchanted Leather
+- Saddle
+- Large Backpack
+- Horse Mount Egg (CS)
+
 ### Raw Porkchop
 
 ### Raw Chicken
