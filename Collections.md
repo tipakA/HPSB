@@ -49,3 +49,15 @@
 - Enchanted Gold Block
 - Enchanted Book (Fortune II)
 - Enchanted Clock (CS)
+
+### Diamond 
+
+- Diamond Minion (C)
+- Enchanted Book (Execute IV))
+- Portal to the Deep Caverns
+- Enchanted Diamond
+- Enchanted Book (Critical IV)
+- Diamond Spreading
+- Hardened Diamond (Set)
+- Enchanted Diamond Block
+- Perfect Set - Tier I
