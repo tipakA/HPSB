@@ -21,6 +21,12 @@
     - [End Stone](#end-stone)
   - [Combat](#combat)
   - [Foraging](#foraging)
+    - [Oak Wood](#oak-wood)
+    - [Spruce Wood](#spruce-wood)
+    - [Birch Wood](#birch-wood)
+    - [Dark Oak Wood](#dark-oak-wood)
+    - [Acacia Wood](#acacia-wood)
+    - [Jungle Wood](#jungle-wood)
   - [Fishing](#fishing)
 
 ## Farming
@@ -153,5 +159,17 @@
 ## Combat
 
 ## Foraging
+
+### Oak Wood
+
+### Spruce Wood
+
+### Birch Wood
+
+### Dark Oak Wood
+
+### Acacia Wood
+
+### Jungle Wood
 
 ## Fishing
