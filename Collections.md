@@ -106,6 +106,16 @@
 
 ### Pumpkin
 
+- Pumpkin Minion
+- Pumpkin Set
+- 25 Farming Experience
+- Enchanted Pumpkin
+- Enchanted Book (Cubism IV)
+- Farmer Orb
+- Lantern Helmet
+- Farm Crystal
+- 5000 Farming Experience
+
 ### Melon
 
 - Melon Minion
