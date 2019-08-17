@@ -495,6 +495,12 @@
 
 ### Clay
 
+- Clay Minion
+- Enchanted Clay
+- Enchanted Book (Respiration II)
+- Enchanted Book (Frail IV)
+- Farmer's Rod
+
 ### Lily Pad
 
 ### Ink Sack
