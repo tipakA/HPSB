@@ -342,6 +342,16 @@
 
 ### Bone
 
+- Skeleton Minion
+- Enchanted Bone Meal
+- Enchanted Book (Power IV)
+- Skeleton Hat
+- Enchanted Bone
+- Skeleton Pet Egg (CS)
+- Hurricane Bow
+- Skeleton's Helmet
+- Runaan's Bow
+
 ### String
 
 - Spider Minion
