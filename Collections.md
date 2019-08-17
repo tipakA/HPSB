@@ -340,6 +340,18 @@
 
 ### Rotten Flesh
 
+- Zombie Minion
+- Zombie Pickaxe
+- Enchanted Book (Smite IV)
+- Enchanted Rotten Flesh
+- Zombie Hat
+- Zombie's Heart
+- Zombie Sword
+- Zombie Chestplate  
+  Zombie Leggings  
+  Zombie Boots
+- Zombie Pet Egg (CS)
+
 ### Bone
 
 - Skeleton Minion
