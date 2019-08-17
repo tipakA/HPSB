@@ -195,6 +195,16 @@
 
 ### Raw Chicken
 
+- Chicken Minion
+- Bridge Egg
+- Chicken Head
+- Enchanted Raw Chicken
+- Chicken Pet Egg (CS)
+- Enchanted Egg
+- Enchanted Cake
+- Agility Potion
+- Random Egg (CS)
+
 ### Mutton
 
 ### Raw Rabbit
