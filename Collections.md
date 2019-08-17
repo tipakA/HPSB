@@ -476,6 +476,16 @@
 
 ### Dark Oak Wood
 
+- Dark Oak Minion
+- Dark Oak Leaves Trade
+- Portal to Dark Thicket
+- Roofed Forest Biome Stick
+- Enchanted Dark Oak Wood
+- Roofed Forest Island
+- Enchanted Book (Growth IV)
+- Set of Growth
+- 5000 Foraging Experience
+
 ### Acacia Wood
 
 - Acacia Minion
