@@ -465,7 +465,7 @@
 ### Birch Wood
 
 - Birch Minion
-- Birch Leaves
+- Birch Leaves Trade
 - Portal to Birch Park
 - 50 Foraging Experience
 - Birch Forest Biome Stick
