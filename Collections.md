@@ -452,6 +452,16 @@
 
 ### Spruce Wood
 
+- Spruce Minion
+- Spruce Leaves Trade
+- Portal to Spruce Woods
+- Taiga Biome Stick
+- Enchanted Spruce Wood
+- Sawmill (CS)
+- 1000 Foraging Experience
+- Wolf Pet Egg (CS)
+- 5000 Foraging Experience
+
 ### Birch Wood
 
 - Birch Minion
