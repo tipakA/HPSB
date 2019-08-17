@@ -348,6 +348,16 @@
 
 ### Gunpowder
 
+- Creeper Minion
+- Creeper Hat
+- Enchanted Book (Blast Protection IV)
+- Enchanted Gunpowder
+- Enchanted Book (Thunderlord IV)
+- Enchanted Firework Rocket
+- Random Firework (CS)
+- Creeper Pants
+- Explosive Bow
+
 ### Ender Pearl
 
 - Enderman Minion
