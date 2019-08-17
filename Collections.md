@@ -344,6 +344,16 @@
 
 ### String
 
+- Spider Minion
+- Web
+- Quiver Upgrade
+- Enchanted String
+- Enchanted Book (Silk Touch I)
+- Enchanted Book (Infinite Quiver II)
+- Grappling Hook
+- Spider's Boots
+- Spider Pet Egg (CS)
+
 ### Spider Eye
 
 - Cave Spider Minion
