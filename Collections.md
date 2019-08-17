@@ -183,6 +183,16 @@
 
 ### Raw Porkchop
 
+- Pig Minion
+- 10 Farming Experience
+- Pig Pet Egg (CS)
+- Enchanted Pork
+- Piggy Bank
+- 500 Farming Experience
+- Enchanted Grilled Pork
+- Pigmen Pet Egg (CS)
+- Pigman Sword
+
 ### Raw Chicken
 
 ### Mutton
