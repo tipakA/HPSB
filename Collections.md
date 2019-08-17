@@ -454,6 +454,16 @@
 
 ### Birch Wood
 
+- Birch Minion
+- Birch Leaves
+- Portal to Birch Park
+- 50 Foraging Experience
+- Birch Forest Biome Stick
+- 150 Foraging Experience
+- Enchanted Birch Wood
+- Woodcutting Crystal
+- 1000 Foraging Experience
+
 ### Dark Oak Wood
 
 ### Acacia Wood
