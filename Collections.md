@@ -515,4 +515,14 @@
 
 ### Ink Sack
 
+- Squid Hat
+- Dark Bait
+- Enchanted Ink Sack
+- Deep Ocean Biome Stick
+- Enchanted Book (Caster IV)
+- Blindness Potion
+- Enchanted Book (Angler IV)
+- Bait Ring
+- Ink Wand
+
 ### Sponge
