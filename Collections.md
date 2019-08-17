@@ -478,6 +478,16 @@
 
 ### Acacia Wood
 
+- Acacia Minion
+- Acacia Leaves Trade
+- Portal To Savanna Woodland
+- Super Torch (CS)
+- Savanna Biome Stick
+- Enchanted Acacia Wood
+- Savanna Bow
+- 1000 Foraging Experience
+- 2500 Foraging Experience
+
 ### Jungle Wood
 
 - Jungle Minion
