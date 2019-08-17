@@ -211,6 +211,8 @@
 
 ### Nether Wart
 
+---
+
 ## Mining
 
 ### Cobble
@@ -336,6 +338,8 @@
 
 ### End Stone
 
+---
+
 ## Combat
 
 ### Rotten Flesh
@@ -430,6 +434,8 @@
 
 ### Magma Cream
 
+---
+
 ## Foraging
 
 ### Oak Wood
@@ -453,6 +459,8 @@
 ### Acacia Wood
 
 ### Jungle Wood
+
+---
 
 ## Fishing
 
