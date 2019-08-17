@@ -350,6 +350,16 @@
 
 ### Ender Pearl
 
+- Enderman Minion
+- Enchanted Ender Pearl
+- Enchanted Book (Ender Slayer IV)
+- End Island
+- Ender Bow
+- Enchanted Eye of Ender
+- Teleport Pad
+- Aspect of the End
+- Saving Grace
+
 ### Ghast Tear
 
 ### Slimeball
