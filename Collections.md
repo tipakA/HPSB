@@ -354,6 +354,16 @@
 
 ### Slimeball
 
+- Slime Minion
+- Slime Hat
+- Enchanted Book (Knockback I)
+- Knockback Potion
+- Enchanted Slimeball
+- Enchanted Book (Punch I)
+- Launch Pad
+- Enchanted Slime Block
+- Slime Bow
+
 ### Blaze Rod
 
 ### Magma Cream
