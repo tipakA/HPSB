@@ -503,6 +503,16 @@
 
 ### Lily Pad
 
+- Spooky Bait
+- Blobfish Hat
+- Healing Talisman
+- Enchanted Lilypad
+- Challenging Rod
+- Whale Bait
+- Rod of Champions
+- Healing Ring
+- Rod of Legends
+
 ### Ink Sack
 
 ### Sponge
