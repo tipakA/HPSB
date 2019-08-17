@@ -468,6 +468,16 @@
 
 ### Raw Salmon
 
+- Minnow Bait
+- Dodge Potion
+- Enchanted Book (Lure IV)
+- Enchanted Raw Salmon
+- Speedster Rod
+- Fish Bait
+- Salmon Hat (CS)
+- Enchanted Cooked Salmon
+- Salmon Armor (CS)
+
 ### Clownfish
 
 ### Pufferfish
