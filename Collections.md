@@ -474,7 +474,7 @@
 - Enchanted Raw Salmon
 - Speedster Rod
 - Fish Bait
-- Salmon Hat (CS)
+- Salmon Hat (CS?)
 - Enchanted Cooked Salmon
 - Salmon Armor (CS)
 
