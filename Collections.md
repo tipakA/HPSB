@@ -346,6 +346,16 @@
 
 ### Spider Eye
 
+- Cave Spider Minion
+- Spider Sword
+- Spider Hat
+- Enchanted Spider Eye
+- Enchanted Book (Bane of Anthropods IV)
+- Enchanted Book (Venomous IV)
+- Enchanted Fermented Spider Eye
+- Cave Spider Pet Egg (CS)
+- Leaping Sword
+
 ### Gunpowder
 
 - Creeper Minion
