@@ -482,6 +482,13 @@
 
 ### Pufferfish
 
+- Pufferfish Hat
+- Enchanted Pufferfish
+- Enchanted Book (Cleave IV)
+- Enchanted Book (Depth Strider II)
+- Spiked Bait
+- Enchanted Book (Spiked Hook IV)
+
 ### Prismarine Shard
 
 ### Prismarine Crystals
