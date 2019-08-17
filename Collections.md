@@ -480,6 +480,16 @@
 
 ### Jungle Wood
 
+- Jungle Minion
+- Jungle Leaves Trade
+- Portal to Jungle Island
+- Vines Trade
+- Jungle Biome Stick
+- Enchanted Jungle Wood
+- Jungle Axe
+- Ocelot Pet Egg (CS)
+- 5000 Foraging Experience
+
 ---
 
 ## Fishing
