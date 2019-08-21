@@ -207,20 +207,19 @@
   </tbody>
 </table>
 
-
 ### Cocoa Beans
 
 |                                             Cocoa Beans                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Cocoa Beans Minion                                                                                   | Required |
-| 20 Farming Experience                                                                                | Required |
-| Portal to Mushroom Island                                                                            | Required |
-| Enchanted Cocoa Bean                                                                                 | Required |
-| 500 Farming Experience                                                                               | Required |
-| Enchanted Cookie                                                                                     | Required |
-| Adrenaline Potion                                                                                    | Required |
-| 5000 Farming Experience                                                                              | Required |
-| 10000 Farming Experience                                                                             | Required |
+| Cocoa Beans Minion                                                                                   | 75       |
+| 20 Farming Experience                                                                                | 200      |
+| Portal to Mushroom Island                                                                            | 500      |
+| Enchanted Cocoa Bean                                                                                 | 2000     |
+| 500 Farming Experience                                                                               | 5000     |
+| Enchanted Cookie                                                                                     | 10000    |
+| Adrenaline Potion                                                                                    | 20000    |
+| 5000 Farming Experience                                                                              | 50000    |
+| 10000 Farming Experience                                                                             | 100000   |
 
 ### Cactus
 
