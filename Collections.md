@@ -72,15 +72,15 @@
 
 |                                                Wheat                                                 | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Wheat Minion                                                                                         | Required |
-| Enchanted Book (Harvesting V)                                                                        | Required |
-| Farm Suit                                                                                            | Required |
-| Farming Talisman                                                                                     | Required |
-| Enchanted Bread                                                                                      | Required |
-| Farming Island                                                                                       | Required |
-| Enchanted Hay Bale                                                                                   | Required |
-| Harvesting Upgrade (CS)                                                                              | Required |
-| Farm Armor                                                                                           | Required |
+| Wheat Minion                                                                                         | 50       |
+| Enchanted Book (Harvesting V)                                                                        | 100      |
+| Farm Suit                                                                                            | 250      |
+| Farming Talisman                                                                                     | 500      |
+| Enchanted Bread                                                                                      | 1000     |
+| Farming Island                                                                                       | 2500     |
+| Enchanted Hay Bale                                                                                   | 10000    |
+| Harvesting Upgrade (CS)                                                                              | 15000    |
+| Farm Armor                                                                                           | 25000    |
 
 ### Carrot
 
