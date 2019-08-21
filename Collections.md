@@ -86,15 +86,15 @@
 
 |                                                Carrot                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Carrot Minion                                                                                        | Required |
-| Pet Food (CS)                                                                                        | Required |
-| Catching Egg (CS)                                                                                    | Required |
-| Enchanted Carrot                                                                                     | Required |
-| Enchanted Carrot on a Stick                                                                          | Required |
-| Super Catching Egg (CS)                                                                              | Required |
-| Enchanted Golden Carrot                                                                              | Required |
-| Carrot Candy (CS)                                                                                    | Required |
-| Mega Catching Egg                                                                                    | Required |
+| Carrot Minion                                                                                        | 100      |
+| Pet Food (CS)                                                                                        | 250      |
+| Catching Egg (CS)                                                                                    | 500      |
+| Enchanted Carrot                                                                                     | 1800     |
+| Enchanted Carrot on a Stick                                                                          | 5000     |
+| Super Catching Egg (CS)                                                                              | 10000    |
+| Enchanted Golden Carrot                                                                              | 25000    |
+| Carrot Candy (CS)                                                                                    | 50000    |
+| Mega Catching Egg (CS)                                                                               | 100000   |
 
 ### Potato
 
