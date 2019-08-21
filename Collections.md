@@ -176,45 +176,45 @@
   <tbody>
     <tr>
       <td>Sugar Cane Minion</td>
-      <td>Required</td>
+      <td>100</td>
     </tr>
     <tr>
       <td>Speed Talisman</td>
-      <td>Required</td>
+      <td>250</td>
     </tr>
     <tr>
       <td>50 Farming Experience</td>
-      <td>Required</td>
+      <td>500</td>
     </tr>
     <tr>
       <td>Enchanted Sugar</td>
-      <td>Required</td>
+      <td>1000</td>
     </tr>
     <tr>
       <td>Enchanted Paper</td>
-      <td rowspan=2>Required</td>
+      <td rowspan=2>2000</td>
     </tr>
     <tr>
       <td>Speed Talisman => Speed Ring Upgrade</td>
     </tr>
     <tr>
       <td>Enchanted Bookshelf</td>
-      <td>Required</td>
+      <td>5000</td>
     </tr>
     <tr>
       <td>Random Book (CS)</td>
-      <td>Required</td>
+      <td>10000</td>
     </tr>
     <tr>
       <td>Enchanted Sugar Cane</td>
-      <td rowspan=2>Required</td>
+      <td rowspan=2>20000</td>
     </tr>
     <tr>
       <td>Speed Ring => Speed Artifact Upgrade</td>
     </tr>
     <tr>
       <td>Speedster Set</td>
-      <td>Required</td>
+      <td>50000</td>
     </tr>
   </tbody>
 </table>
