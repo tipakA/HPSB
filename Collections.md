@@ -142,12 +142,12 @@
 
 |                                                Seeds                                                 | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Dirt Trade                                                                                           | Required |
-| Clay Trade                                                                                           | Required |
-| Long Grass Trade                                                                                     | Required |
-| Fern Trade                                                                                           | Required |
-| Dead Bush Trade                                                                                      | Required |
-| Double Tallgrass                                                                                     | Required |
+| Dirt Trade                                                                                           | 50       |
+| Clay Trade                                                                                           | 100      |
+| Long Grass Trade                                                                                     | 250      |
+| Fern Trade                                                                                           | 1000     |
+| Dead Bush Trade                                                                                      | 2500     |
+| Double Tallgrass Trade                                                                               | 5000     |
 
 ### Mushroom
 
