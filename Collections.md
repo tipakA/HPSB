@@ -114,15 +114,15 @@
 
 |                                               Pumpkin                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Pumpkin Minion                                                                                       | Required |
-| Pumpkin Set                                                                                          | Required |
-| 25 Farming Experience                                                                                | Required |
-| Enchanted Pumpkin                                                                                    | Required |
-| Enchanted Book (Cubism IV)                                                                           | Required |
-| Farmer Orb                                                                                           | Required |
-| Lantern Helmet                                                                                       | Required |
-| Farm Crystal                                                                                         | Required |
-| 5000 Farming Experience                                                                              | Required |
+| Pumpkin Minion                                                                                       | 40       |
+| Pumpkin Set                                                                                          | 100      |
+| 25 Farming Experience                                                                                | 250      |
+| Enchanted Pumpkin                                                                                    | 1000     |
+| Enchanted Book (Cubism IV)                                                                           | 2500     |
+| Farmer Orb                                                                                           | 5000     |
+| Lantern Helmet                                                                                       | 10000    |
+| Farm Crystal                                                                                         | 25000    |
+| 5000 Farming Experience                                                                              | 50000    |
 
 ### Melon
 
