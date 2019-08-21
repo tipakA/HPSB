@@ -225,15 +225,15 @@
 
 |                                                Cactus                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Cactus Minion                                                                                        | Required |
-| Cactus Set                                                                                           | Required |
-| Resistance Potion                                                                                    | Required |
-| Enchanted Cactus Green                                                                               | Required |
-| Desert Island                                                                                        | Required |
-| Enchanted Book (Piercing I)                                                                          | Required |
-| Enchanted Book (Thorns II)                                                                           | Required |
-| Enchanted Cactus                                                                                     | Required |
-| 5000 Farming Experience                                                                              | Required |
+| Cactus Minion                                                                                        | 100      |
+| Cactus Set                                                                                           | 250      |
+| Resistance Potion                                                                                    | 500      |
+| Enchanted Cactus Green                                                                               | 1000     |
+| Desert Island                                                                                        | 2500     |
+| Enchanted Book (Piercing I)                                                                          | 5000     |
+| Enchanted Book (Thorns II)                                                                           | 10000    |
+| Enchanted Cactus                                                                                     | 25000    |
+| 5000 Farming Experience                                                                              | 50000    |
 
 ### Sugar Cane
 
