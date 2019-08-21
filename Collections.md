@@ -166,19 +166,58 @@
 
 ### Sugar Cane
 
-|                                              Sugar Cane                                              | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Sugar Cane Minion                                                                                    | Required |
-| Speed Talisman                                                                                       | Required |
-| 50 Farming Experience                                                                                | Required |
-| Enchanted Sugar                                                                                      | Required |
-| Enchanted Paper                                                                                      | Required |
-  Speed Talisman => Speed Ring Upgrade
-| Enchanted Bookshelf                                                                                  | Required |
-| Random Book (CS)                                                                                     | Required |
-| Enchanted Sugar Cane                                                                                 | Required |
-  Speed Ring => Speed Artifact Upgrade
-| Speedster Set                                                                                        | Required |
+<table>
+  <thead>
+    <tr>
+      <th>Sugar Cane</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sugar Cane Minion</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Speed Talisman</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>50 Farming Experience</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Sugar</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Paper</td>
+      <td rowspan=2>Required</td>
+    </tr>
+    <tr>
+      <td>Speed Talisman => Speed Ring Upgrade</td>
+    </tr>
+    <tr>
+      <td>Enchanted Bookshelf</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Random Book (CS)</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Sugar Cane</td>
+      <td rowspan=2>Required</td>
+    </tr>
+    <tr>
+      <td>Speed Ring => Speed Artifact Upgrade</td>
+    </tr>
+    <tr>
+      <td>Speedster Set</td>
+      <td>Required</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Feather
 
@@ -423,19 +462,58 @@
 
 ### Rotten Flesh
 
-|                                             Rotten Flesh                                             | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Zombie Minion                                                                                        | Required |
-| Zombie Pickaxe                                                                                       | Required |
-| Enchanted Book (Smite IV)                                                                            | Required |
-| Enchanted Rotten Flesh                                                                               | Required |
-| Zombie Hat                                                                                           | Required |
-| Zombie's Heart                                                                                       | Required |
-| Zombie Sword                                                                                         | Required |
-| Zombie Chestplate                                                                                    | Required |
-  Zombie Leggings  
-  Zombie Boots
-| Zombie Pet Egg (CS)                                                                                  | Required |
+<table>
+  <thead>
+    <tr>
+      <td>Rotten Flesh</td>
+      <td>Required</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Zombie Minion</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Pickaxe</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Smite IV)</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Rotten Flesh</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Hat</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie's Heart</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Sword</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Chestplate</td>
+      <td rowspan=3>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Leggings</td>
+    </tr>
+    <tr>
+      <td>Zombie Boots</td>
+    </tr>
+    <tr>
+      <td>Zombie Pet Egg (CS)</td>
+      <td>Required</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Bone
 
