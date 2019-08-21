@@ -298,15 +298,15 @@
 
 |                                                Cobble                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| [Cobblestone Minion](/Recipes.md/#cobblestone)                                                       | Required |
-| Stone Platform                                                                                       | Required |
-| Auto Smelter                                                                                         | Required |
-| Enchanted Cobblestone                                                                                | Required |
-| Compactor                                                                                            | Required |
-| Silverfish Pet Egg (CS)                                                                              | Required |
-| Miner's Outfit                                                                                       | Required |
-| Haste Ring                                                                                           | Required |
-| Super Compactor 3000                                                                                 | Required |
+| [Cobblestone Minion](/Recipes.md/#cobblestone)                                                       | 50       |
+| Stone Platform                                                                                       | 100      |
+| Auto Smelter                                                                                         | 250      |
+| Enchanted Cobblestone                                                                                | 1000     |
+| Compactor                                                                                            | 2500     |
+| Silverfish Pet Egg (CS)                                                                              | 5000     |
+| Miner's Outfit                                                                                       | 10000    |
+| Haste Ring                                                                                           | 40000    |
+| Super Compactor 3000                                                                                 | 70000    |
 
 ### Coal 
 
