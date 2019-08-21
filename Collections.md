@@ -158,6 +158,15 @@
 
 |                                             Cocoa Beans                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Cocoa Beans Minion                                                                                   | Required |
+| 20 Farming Experience                                                                                | Required |
+| Portal to Mushroom Island                                                                            | Required |
+| Enchanted Cocoa Bean                                                                                 | Required |
+| 500 Farming Experience                                                                               | Required |
+| Enchanted Cookie                                                                                     | Required |
+| Adrenaline Potion                                                                                    | Required |
+| 5000 Farming Experience                                                                              | Required |
+| 10000 Farming Experience                                                                             | Required |
 
 ### Cactus
 
