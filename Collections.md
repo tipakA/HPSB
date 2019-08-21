@@ -368,15 +368,15 @@
 
 |                                             Lapis Lazuli                                             | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Lapis Minion                                                                                         | Required |
-| Experience Bottle                                                                                    | Required |
-| Enchanted Book (Experience II)                                                                       | Required |
-| Enchanted Lapis Lazuli                                                                               | Required |
-| Grand Experience Bottle                                                                              | Required |
-| Experience Potions                                                                                   | Required |
-| Enchanted Lapis Block                                                                                | Required |
-| Titanic Experience Bottle                                                                            | Required |
-| Experience Artifact                                                                                  | Required |
+| Lapis Minion                                                                                         | 250      |
+| Experience Bottle                                                                                    | 500      |
+| Enchanted Book (Experience II)                                                                       | 1000     |
+| Enchanted Lapis Lazuli                                                                               | 2000     |
+| Grand Experience Bottle                                                                              | 10000    |
+| Experience Potions                                                                                   | 25000    |
+| Enchanted Lapis Block                                                                                | 50000    |
+| Titanic Experience Bottle                                                                            | 100000   |
+| Experience Artifact                                                                                  | 150000   |
 
 ### Emerald
 
