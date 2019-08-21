@@ -382,15 +382,15 @@
 
 |                                               Emerald                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Emerald Minion                                                                                       | Required |
-| Talisman of Coins                                                                                    | Required |
-| Magnetic Talisman                                                                                    | Required |
-| Enchanted Emerald                                                                                    | Required |
-| Emerald Rind (CS)                                                                                    | Required |
-| Personal Bank Upgrade                                                                                | Required |
-| Enchanted Emerald Block                                                                              | Required |
-| Emerald Blade                                                                                        | Required |
-| Emerald Armor                                                                                        | Required |
+| Emerald Minion                                                                                       | 50       |
+| Talisman of Coins                                                                                    | 100      |
+| Magnetic Talisman                                                                                    | 250      |
+| Enchanted Emerald                                                                                    | 1000     |
+| Emerald Rind (CS)                                                                                    | 5000     |
+| Personal Bank Upgrade                                                                                | 15000    |
+| Enchanted Emerald Block                                                                              | 30000    |
+| Emerald Blade                                                                                        | 50000    |
+| Emerald Armor                                                                                        | 100000   |
 
 ### Redstone
 
