@@ -340,15 +340,15 @@
 
 |                                                Gold                                                  | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Gold Minion                                                                                          | Required |
-| Cleaver                                                                                              | Required |
-| Enchanted Book (Looting II)                                                                          | Required |
-| Enchanted Gold                                                                                       | Required |
-| Absorption Potion                                                                                    | Required |
-| Enchanted Book (Scavenger II)                                                                        | Required |
-| Enchanted Gold Block                                                                                 | Required |
-| Enchanted Book (Fortune II)                                                                          | Required |
-| Enchanted Clock (CS)                                                                                 | Required |
+| Gold Minion                                                                                          | 50       |
+| Cleaver                                                                                              | 100      |
+| Enchanted Book (Looting II)                                                                          | 250      |
+| Enchanted Gold                                                                                       | 1000     |
+| Absorption Potion                                                                                    | 2500     |
+| Enchanted Book (Scavenger II)                                                                        | 5000     |
+| Enchanted Gold Block                                                                                 | 10000    |
+| Enchanted Book (Fortune II)                                                                          | 25000    |
+| Enchanted Clock (CS)                                                                                 | 50000    |
 
 ### Diamond 
 
