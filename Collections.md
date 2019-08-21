@@ -223,15 +223,15 @@
 
 |                                               Feather                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Enchanted Book (Projectile Protection IV)                                                            | Required |
-| Enchanted Book (Feather Falling IV)                                                                  | Required |
-| Archery Potion                                                                                       | Required |
-| Feather Talisman                                                                                     | Required |
-| Enchanted Feather                                                                                    | Required |
-| Enchanted Book (Aiming IV)                                                                           | Required |
-| Feather Ring                                                                                         | Required |
-| Enchanted Book (Snipe II)                                                                            | Required |
-| Feather Artifact                                                                                     | Required |
+| Enchanted Book (Projectile Protection IV)                                                            | 50       |
+| Enchanted Book (Feather Falling IV)                                                                  | 100      |
+| Archery Potion                                                                                       | 250      |
+| Feather Talisman                                                                                     | 1000     |
+| Enchanted Feather                                                                                    | 2500     |
+| Enchanted Book (Aiming IV)                                                                           | 5000     |
+| Feather Ring                                                                                         | 10000    |
+| Enchanted Book (Snipe II)                                                                            | 25000    |
+| Feather Artifact                                                                                     | 50000    |
 
 ### Leather
 
