@@ -100,15 +100,15 @@
 
 |                                                Potato                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Potato Minion                                                                                        | Required |
-| Portal to the Barn                                                                                   | Required |
-| Vaccine Talisman                                                                                     | Required |
-| Enchanted Potato                                                                                     | Required |
-| Venomous Potion                                                                                      | Required |
-| 1000 Farming Experience                                                                              | Required |
-| Enchanteda Baked Potato                                                                              | Required |
-| Hot Potato Book                                                                                      | Required |
-| 10000 Farming Experience                                                                             | Required |
+| Potato Minion                                                                                        | 100      |
+| Portal to the Barn                                                                                   | 200      |
+| Vaccine Talisman                                                                                     | 500      |
+| Enchanted Potato                                                                                     | 1800     |
+| Venomous Potion                                                                                      | 5000     |
+| 1000 Farming Experience                                                                              | 10000    |
+| Enchanteda Baked Potato                                                                              | 25000    |
+| Hot Potato Book                                                                                      | 50000    |
+| 10000 Farming Experience                                                                             | 100000   |
 
 ### Pumpkin
 
