@@ -128,15 +128,15 @@
 
 |                                                Melon                                                 | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Melon Minion                                                                                         | Required |
-| 50 Farming Experience                                                                                | Required |
-| 125 Farming Experience                                                                               | Required |
-| Enchanted Melon                                                                                      | Required |
-| Enchanted Glistering Melon                                                                           | Required |
-| Enchanted Melon Block                                                                                | Required |
-| 5000 Farming Experience                                                                              | Required |
-| 10000 Farming Experience                                                                             | Required |
-| 25000 Farming Experience                                                                             | Required |
+| Melon Minion                                                                                         | 250      |
+| 50 Farming Experience                                                                                | 500      |
+| 125 Farming Experience                                                                               | 1200     |
+| Enchanted Melon                                                                                      | 5000     |
+| Enchanted Glistering Melon                                                                           | 15000    |
+| Enchanted Melon Block                                                                                | 25000    |
+| 5000 Farming Experience                                                                              | 50000    |
+| 10000 Farming Experience                                                                             | 100000   |
+| 25000 Farming Experience                                                                             | 250000   |
 
 ### Seeds
 
