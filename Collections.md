@@ -237,15 +237,15 @@
 
 |                                               Leather                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Cow Minion                                                                                           | Required |
-| Cow Head                                                                                             | Required |
-| Small Backpack                                                                                       | Required |
-| Enchanted Raw Beef                                                                                   | Required |
-| Medium Backpack                                                                                      | Required |
-| Enchanted Leather                                                                                    | Required |
-| Saddle                                                                                               | Required |
-| Large Backpack                                                                                       | Required |
-| Horse Mount Egg (CS)                                                                                 | Required |
+| Cow Minion                                                                                           | 50       |
+| Cow Head                                                                                             | 100      |
+| Small Backpack                                                                                       | 250      |
+| Enchanted Raw Beef                                                                                   | 1000     |
+| Medium Backpack                                                                                      | 2500     |
+| Enchanted Leather                                                                                    | 5000     |
+| Saddle                                                                                               | 10000    |
+| Large Backpack                                                                                       | 25000    |
+| Horse Mount Egg (CS)                                                                                 | 50000    |
 
 ### Raw Porkchop
 
