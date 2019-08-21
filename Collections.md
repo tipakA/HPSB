@@ -297,6 +297,15 @@
 
 |                                                Mutton                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Sheep Minion                                                                                         | Required |
+| 10 Farming Experience                                                                                | Required |
+| 25 Farming Experience                                                                                | Required |
+| Mana Potion                                                                                          | Required |
+| Enchanted Mutton                                                                                     | Required |
+| Enchanted Book (Rainbow I)                                                                           | Required |
+| Sheep Pet Egg (CS)                                                                                   | Required |
+| Enchanted Cooked Mutton                                                                              | Required |
+| Polymorph Wand (CS)                                                                                  | Required |
 
 ### Raw Rabbit
 
