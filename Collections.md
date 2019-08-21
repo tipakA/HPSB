@@ -312,15 +312,15 @@
 
 |                                                Coal                                                  | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Coal Minion                                                                                          | Required |
-| Enchanted Book (Smelting Touch I)                                                                    | Required |
-| Haste Potion                                                                                         | Required |
-| Enchanted Coal                                                                                       | Required |
-| Enchanted Charcoal                                                                                   | Required |
-| Diamond Refinery (CS)                                                                                | Required |
-| Enchanted Block of Coal                                                                              | Required |
-| Enchanted Lava Bucket                                                                                | Required |
-| Wither Skeleton Pet Egg (CS)                                                                         | Required |
+| Coal Minion                                                                                          | 50       |
+| Enchanted Book (Smelting Touch I)                                                                    | 100      |
+| Haste Potion                                                                                         | 250      |
+| Enchanted Coal                                                                                       | 1000     |
+| Enchanted Charcoal                                                                                   | 2500     |
+| Diamond Refinery (CS)                                                                                | 5000     |
+| Enchanted Block of Coal                                                                              | 10000    |
+| Enchanted Lava Bucket                                                                                | 25000    |
+| Wither Skeleton Pet Egg (CS)                                                                         | 50000    |
 
 ### Iron 
 
