@@ -172,6 +172,15 @@
 
 |                                                Cactus                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Cactus Minion                                                                                        | Required |
+| Cactus Set                                                                                           | Required |
+| Resistance Potion                                                                                    | Required |
+| Enchanted Cactus Green                                                                               | Required |
+| Desert Island                                                                                        | Required |
+| Enchanted Book (Piercing I)                                                                          | Required |
+| Enchanted Book (Thorns II)                                                                           | Required |
+| Enchanted Cactus                                                                                     | Required |
+| 5000 Farming Experience                                                                              | Required |
 
 ### Sugar Cane
 
