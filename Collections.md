@@ -151,8 +151,62 @@
 
 ### Mushroom
 
-|                                               Mushroom                                               | Required |
-|------------------------------------------------------------------------------------------------------|----------|
+<table>
+  <thead>
+    <tr>
+      <td>Mushroom</td>
+      <td>Required</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mushroom Minion</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Mycelium</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Mushroom Set</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Magical Mushroom Soup</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Brown Mushroom Block</td>
+      <td rowspan=2>Required</td>
+    </tr>
+    <tr>
+      <td>Red Mushroom Block</td>
+    </tr>
+    <tr>
+      <td>Enchanted Red Mushroom</td>
+      <td rowspan=2>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Brown Mushroom</td>
+    </tr>
+    <tr>
+      <td>Night Vision Charm</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Brown Mushroom Block</td>
+      <td rowspan=2>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Red Mushroom Block</td>
+    </tr>
+    <tr>
+      <td>Bat Pet Egg (CS)</td>
+      <td>Required</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Cocoa Beans
 
