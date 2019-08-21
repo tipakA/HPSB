@@ -265,15 +265,15 @@
 
 |                                             Raw Chicken                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Chicken Minion                                                                                       | Required |
-| Bridge Egg                                                                                           | Required |
-| Chicken Head                                                                                         | Required |
-| Enchanted Raw Chicken                                                                                | Required |
-| Chicken Pet Egg (CS)                                                                                 | Required |
-| Enchanted Egg                                                                                        | Required |
-| Enchanted Cake                                                                                       | Required |
-| Agility Potion                                                                                       | Required |
-| Random Egg (CS)                                                                                      | Required |
+| Chicken Minion                                                                                       | 50       |
+| Bridge Egg                                                                                           | 100      |
+| Chicken Head                                                                                         | 250      |
+| Enchanted Raw Chicken                                                                                | 1000     |
+| Chicken Pet Egg (CS)                                                                                 | 2500     |
+| Enchanted Egg                                                                                        | 5000     |
+| Enchanted Cake                                                                                       | 10000    |
+| Agility Potion                                                                                       | 25000    |
+| Random Egg (CS)                                                                                      | 50000    |
 
 ### Mutton
 
