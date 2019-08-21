@@ -251,15 +251,15 @@
 
 |                                             Raw Porkchop                                             | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Pig Minion                                                                                           | Required |
-| 10 Farming Experience                                                                                | Required |
-| Pig Pet Egg (CS)                                                                                     | Required |
-| Enchanted Pork                                                                                       | Required |
-| Piggy Bank                                                                                           | Required |
-| 500 Farming Experience                                                                               | Required |
-| Enchanted Grilled Pork                                                                               | Required |
-| Pigmen Pet Egg (CS)                                                                                  | Required |
-| Pigman Sword                                                                                         | Required |
+| Pig Minion                                                                                           | 50       |
+| 10 Farming Experience                                                                                | 100      |
+| Pig Pet Egg (CS)                                                                                     | 250      |
+| Enchanted Pork                                                                                       | 1000     |
+| Piggy Bank                                                                                           | 2500     |
+| 500 Farming Experience                                                                               | 5000     |
+| Enchanted Grilled Pork                                                                               | 10000    |
+| Pigmen Pet Egg (CS)                                                                                  | 25000    |
+| Pigman Sword                                                                                         | 50000    |
 
 ### Raw Chicken
 
