@@ -326,15 +326,15 @@
 
 |                                                Iron                                                  | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Iron Minion                                                                                          | Required |
-| Golem Hat (CS)                                                                                       | Required |
-| Enchanted Book (Protection IV)                                                                       | Required |
-| Enchanted Iron                                                                                       | Required |
-| Budget Hopper                                                                                        | Required |
-| Golem Armor                                                                                          | Required |
-| Enchanted Iron Block                                                                                 | Required |
-| Golem Sword                                                                                          | Required |
-| Enchanted Hopper                                                                                     | Required |
+| Iron Minion                                                                                          | 50       |
+| Golem Hat (CS)                                                                                       | 100      |
+| Enchanted Book (Protection IV)                                                                       | 250      |
+| Enchanted Iron                                                                                       | 1000     |
+| Budget Hopper                                                                                        | 2500     |
+| Golem Armor                                                                                          | 5000     |
+| Enchanted Iron Block                                                                                 | 10000    |
+| Golem Sword                                                                                          | 25000    |
+| Enchanted Hopper                                                                                     | 50000    |
 
 ### Gold 
 
