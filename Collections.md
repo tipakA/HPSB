@@ -161,48 +161,48 @@
   <tbody>
     <tr>
       <td>Mushroom Minion</td>
-      <td>Required</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>Mycelium</td>
-      <td>Required</td>
+      <td>100</td>
     </tr>
     <tr>
       <td>Mushroom Set</td>
-      <td>Required</td>
+      <td>250</td>
     </tr>
     <tr>
       <td>Magical Mushroom Soup</td>
-      <td>Required</td>
+      <td>1000</td>
     </tr>
     <tr>
       <td>Brown Mushroom Block</td>
-      <td rowspan=2>Required</td>
+      <td rowspan=2>2500</td>
     </tr>
     <tr>
       <td>Red Mushroom Block</td>
     </tr>
     <tr>
       <td>Enchanted Red Mushroom</td>
-      <td rowspan=2>Required</td>
+      <td rowspan=2>5000</td>
     </tr>
     <tr>
       <td>Enchanted Brown Mushroom</td>
     </tr>
     <tr>
       <td>Night Vision Charm</td>
-      <td>Required</td>
+      <td>10000</td>
     </tr>
     <tr>
       <td>Enchanted Brown Mushroom Block</td>
-      <td rowspan=2>Required</td>
+      <td rowspan=2>25000</td>
     </tr>
     <tr>
       <td>Enchanted Red Mushroom Block</td>
     </tr>
     <tr>
       <td>Bat Pet Egg (CS)</td>
-      <td>Required</td>
+      <td>50000</td>
     </tr>
   </tbody>
 </table>
