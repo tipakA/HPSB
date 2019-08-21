@@ -354,15 +354,15 @@
 
 |                                               Diamond                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Diamond Minion                                                                                       | Required |
-| Enchanted Book (Execute IV))                                                                         | Required |
-| Portal to the Deep Caverns                                                                           | Required |
-| Enchanted Diamond                                                                                    | Required |
-| Enchanted Book (Critical IV)                                                                         | Required |
-| Diamond Spreading                                                                                    | Required |
-| Hardened Diamond (Set)                                                                               | Required |
-| Enchanted Diamond Block                                                                              | Required |
-| Perfect Set - Tier I                                                                                 | Required |
+| Diamond Minion                                                                                       | 50       |
+| Enchanted Book (Execute IV))                                                                         | 100      |
+| Portal to the Deep Caverns                                                                           | 250      |
+| Enchanted Diamond                                                                                    | 1000     |
+| Enchanted Book (Critical IV)                                                                         | 2500     |
+| Diamond Spreading                                                                                    | 5000     |
+| Hardened Diamond (Set)                                                                               | 10000    |
+| Enchanted Diamond Block                                                                              | 25000    |
+| Perfect Set - Tier I                                                                                 | 50000    |
 
 ### Lapis Lazuli
 
