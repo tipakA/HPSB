@@ -311,6 +311,15 @@
 
 |                                              Raw Rabbit                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Rabbit Minion                                                                                        | Required |
+| Rabbit Pet Egg (CS)                                                                                  | Required |
+| Rabbit Potion                                                                                        | Required |
+| Enchanted Rabbit Foot                                                                                | Required |
+| Enchanted Book (Luck IV)                                                                             | Required |
+| Enchanted Rabbit Hide                                                                                | Required |
+| Enchanted Book (Luck of the Sea IV)                                                                  | Required |
+| Luck Talisman (CS)                                                                                   | Required |
+| 5000 Farming Experience                                                                              | Required |
 
 ### Nether Wart
 
