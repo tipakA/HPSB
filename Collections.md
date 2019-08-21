@@ -70,146 +70,225 @@
 
 ### Wheat
 
-- Wheat Minion
-- Enchanted Book (Harvesting V)
-- Farm Suit
-- Farming Talisman
-- Enchanted Bread
-- Farming Island
-- Enchanted Hay Bale
-- Harvesting Upgrade (CS)
-- Farm Armor
+|                                                Wheat                                                 | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Wheat Minion                                                                                         | Required |
+| Enchanted Book (Harvesting V)                                                                        | Required |
+| Farm Suit                                                                                            | Required |
+| Farming Talisman                                                                                     | Required |
+| Enchanted Bread                                                                                      | Required |
+| Farming Island                                                                                       | Required |
+| Enchanted Hay Bale                                                                                   | Required |
+| Harvesting Upgrade (CS)                                                                              | Required |
+| Farm Armor                                                                                           | Required |
 
 ### Carrot
 
-- Carrot Minion
-- Pet Food (CS)
-- Catching Egg (CS)
-- Enchanted Carrot
-- Enchanted Carrot on a Stick
-- Super Catching Egg (CS)
-- Enchanted Golden Carrot
-- Carrot Candy (CS)
-- Mega Catching Egg
+|                                                Carrot                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Carrot Minion                                                                                        | Required |
+| Pet Food (CS)                                                                                        | Required |
+| Catching Egg (CS)                                                                                    | Required |
+| Enchanted Carrot                                                                                     | Required |
+| Enchanted Carrot on a Stick                                                                          | Required |
+| Super Catching Egg (CS)                                                                              | Required |
+| Enchanted Golden Carrot                                                                              | Required |
+| Carrot Candy (CS)                                                                                    | Required |
+| Mega Catching Egg                                                                                    | Required |
 
 ### Potato
 
-- Potato Minion
-- Portal to the Barn
-- Vaccine Talisman
-- Enchanted Potato
-- Venomous Potion
-- 1000 Farming Experience
-- Enchanteda Baked Potato
-- Hot Potato Book
-- 10000 Farming Experience
+|                                                Potato                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Potato Minion                                                                                        | Required |
+| Portal to the Barn                                                                                   | Required |
+| Vaccine Talisman                                                                                     | Required |
+| Enchanted Potato                                                                                     | Required |
+| Venomous Potion                                                                                      | Required |
+| 1000 Farming Experience                                                                              | Required |
+| Enchanteda Baked Potato                                                                              | Required |
+| Hot Potato Book                                                                                      | Required |
+| 10000 Farming Experience                                                                             | Required |
 
 ### Pumpkin
 
-- Pumpkin Minion
-- Pumpkin Set
-- 25 Farming Experience
-- Enchanted Pumpkin
-- Enchanted Book (Cubism IV)
-- Farmer Orb
-- Lantern Helmet
-- Farm Crystal
-- 5000 Farming Experience
+|                                               Pumpkin                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Pumpkin Minion                                                                                       | Required |
+| Pumpkin Set                                                                                          | Required |
+| 25 Farming Experience                                                                                | Required |
+| Enchanted Pumpkin                                                                                    | Required |
+| Enchanted Book (Cubism IV)                                                                           | Required |
+| Farmer Orb                                                                                           | Required |
+| Lantern Helmet                                                                                       | Required |
+| Farm Crystal                                                                                         | Required |
+| 5000 Farming Experience                                                                              | Required |
 
 ### Melon
 
-- Melon Minion
-- 50 Farming Experience
-- 125 Farming Experience
-- Enchanted Melon
-- Enchanted Glistering Melon
-- Enchanted Melon Block
-- 5000 Farming Experience
-- 10000 Farming Experience
-- 25000 Farming Experience
+|                                                Melon                                                 | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Melon Minion                                                                                         | Required |
+| 50 Farming Experience                                                                                | Required |
+| 125 Farming Experience                                                                               | Required |
+| Enchanted Melon                                                                                      | Required |
+| Enchanted Glistering Melon                                                                           | Required |
+| Enchanted Melon Block                                                                                | Required |
+| 5000 Farming Experience                                                                              | Required |
+| 10000 Farming Experience                                                                             | Required |
+| 25000 Farming Experience                                                                             | Required |
 
 ### Seeds
 
-- Dirt Trade
-- Clay Trade
-- Long Grass Trade
-- Fern Trade
-- Dead Bush Trade
-- Double Tallgrass
+|                                                Seeds                                                 | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Dirt Trade                                                                                           | Required |
+| Clay Trade                                                                                           | Required |
+| Long Grass Trade                                                                                     | Required |
+| Fern Trade                                                                                           | Required |
+| Dead Bush Trade                                                                                      | Required |
+| Double Tallgrass                                                                                     | Required |
 
 ### Mushroom
 
+|                                               Mushroom                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Cocoa Beans
+
+|                                             Cocoa Beans                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
 
 ### Cactus
 
+|                                                Cactus                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Sugar Cane
 
-- Sugar Cane Minion
-- Speed Talisman
-- 50 Farming Experience
-- Enchanted Sugar
-- Enchanted Paper  
-  Speed Talisman => Speed Ring Upgrade
-- Enchanted Bookshelf
-- Random Book (CS)
-- Enchanted Sugar Cane  
-  Speed Ring => Speed Artifact Upgrade
-- Speedster Set
+<table>
+  <thead>
+    <tr>
+      <th>Sugar Cane</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sugar Cane Minion</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Speed Talisman</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>50 Farming Experience</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Sugar</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Paper</td>
+      <td rowspan=2>Required</td>
+    </tr>
+    <tr>
+      <td>Speed Talisman => Speed Ring Upgrade</td>
+    </tr>
+    <tr>
+      <td>Enchanted Bookshelf</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Random Book (CS)</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Sugar Cane</td>
+      <td rowspan=2>Required</td>
+    </tr>
+    <tr>
+      <td>Speed Ring => Speed Artifact Upgrade</td>
+    </tr>
+    <tr>
+      <td>Speedster Set</td>
+      <td>Required</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Feather
 
-- Enchanted Book (Projectile Protection IV)
-- Enchanted Book (Feather Falling IV)
-- Archery Potion
-- Feather Talisman
-- Enchanted Feather
-- Enchanted Book (Aiming IV)
-- Feather Ring
-- Enchanted Book (Snipe II)
-- Feather Artifact
+|                                               Feather                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Enchanted Book (Projectile Protection IV)                                                            | Required |
+| Enchanted Book (Feather Falling IV)                                                                  | Required |
+| Archery Potion                                                                                       | Required |
+| Feather Talisman                                                                                     | Required |
+| Enchanted Feather                                                                                    | Required |
+| Enchanted Book (Aiming IV)                                                                           | Required |
+| Feather Ring                                                                                         | Required |
+| Enchanted Book (Snipe II)                                                                            | Required |
+| Feather Artifact                                                                                     | Required |
 
 ### Leather
 
-- Cow Minion
-- Cow Head
-- Small Backpack
-- Enchanted Raw Beef
-- Medium Backpack
-- Enchanted Leather
-- Saddle
-- Large Backpack
-- Horse Mount Egg (CS)
+|                                               Leather                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Cow Minion                                                                                           | Required |
+| Cow Head                                                                                             | Required |
+| Small Backpack                                                                                       | Required |
+| Enchanted Raw Beef                                                                                   | Required |
+| Medium Backpack                                                                                      | Required |
+| Enchanted Leather                                                                                    | Required |
+| Saddle                                                                                               | Required |
+| Large Backpack                                                                                       | Required |
+| Horse Mount Egg (CS)                                                                                 | Required |
 
 ### Raw Porkchop
 
-- Pig Minion
-- 10 Farming Experience
-- Pig Pet Egg (CS)
-- Enchanted Pork
-- Piggy Bank
-- 500 Farming Experience
-- Enchanted Grilled Pork
-- Pigmen Pet Egg (CS)
-- Pigman Sword
+|                                             Raw Porkchop                                             | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Pig Minion                                                                                           | Required |
+| 10 Farming Experience                                                                                | Required |
+| Pig Pet Egg (CS)                                                                                     | Required |
+| Enchanted Pork                                                                                       | Required |
+| Piggy Bank                                                                                           | Required |
+| 500 Farming Experience                                                                               | Required |
+| Enchanted Grilled Pork                                                                               | Required |
+| Pigmen Pet Egg (CS)                                                                                  | Required |
+| Pigman Sword                                                                                         | Required |
 
 ### Raw Chicken
 
-- Chicken Minion
-- Bridge Egg
-- Chicken Head
-- Enchanted Raw Chicken
-- Chicken Pet Egg (CS)
-- Enchanted Egg
-- Enchanted Cake
-- Agility Potion
-- Random Egg (CS)
+|                                             Raw Chicken                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Chicken Minion                                                                                       | Required |
+| Bridge Egg                                                                                           | Required |
+| Chicken Head                                                                                         | Required |
+| Enchanted Raw Chicken                                                                                | Required |
+| Chicken Pet Egg (CS)                                                                                 | Required |
+| Enchanted Egg                                                                                        | Required |
+| Enchanted Cake                                                                                       | Required |
+| Agility Potion                                                                                       | Required |
+| Random Egg (CS)                                                                                      | Required |
 
 ### Mutton
 
+|                                                Mutton                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Raw Rabbit
 
+|                                              Raw Rabbit                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Nether Wart
+
+|                                             Nether Wart                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
 
 ---
 
@@ -217,126 +296,165 @@
 
 ### Cobble
 
-- [Cobblestone Minion](/Recipes.md/#cobblestone)
-- Stone Platform
-- Auto Smelter
-- Enchanted Cobblestone
-- Compactor
-- Silverfish Pet Egg (CS)
-- Miner's Outfit
-- Haste Ring
-- Super Compactor 3000
+|                                                Cobble                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| [Cobblestone Minion](/Recipes.md/#cobblestone)                                                       | Required |
+| Stone Platform                                                                                       | Required |
+| Auto Smelter                                                                                         | Required |
+| Enchanted Cobblestone                                                                                | Required |
+| Compactor                                                                                            | Required |
+| Silverfish Pet Egg (CS)                                                                              | Required |
+| Miner's Outfit                                                                                       | Required |
+| Haste Ring                                                                                           | Required |
+| Super Compactor 3000                                                                                 | Required |
 
 ### Coal 
 
-- Coal Minion
-- Enchanted Book (Smelting Touch I)
-- Haste Potion
-- Enchanted Coal
-- Enchanted Charcoal
-- Diamond Refinery (CS)
-- Enchanted Block of Coal
-- Enchanted Lava Bucket
-- Wither Skeleton Pet Egg (CS)
+|                                                Coal                                                  | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Coal Minion                                                                                          | Required |
+| Enchanted Book (Smelting Touch I)                                                                    | Required |
+| Haste Potion                                                                                         | Required |
+| Enchanted Coal                                                                                       | Required |
+| Enchanted Charcoal                                                                                   | Required |
+| Diamond Refinery (CS)                                                                                | Required |
+| Enchanted Block of Coal                                                                              | Required |
+| Enchanted Lava Bucket                                                                                | Required |
+| Wither Skeleton Pet Egg (CS)                                                                         | Required |
 
 ### Iron 
 
-- Iron Minion
-- Golem Hat (CS)
-- Enchanted Book (Protection IV)
-- Enchanted Iron
-- Budget Hopper
-- Golem Armor
-- Enchanted Iron Block
-- Golem Sword
-- Enchanted Hopper
+|                                                Iron                                                  | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Iron Minion                                                                                          | Required |
+| Golem Hat (CS)                                                                                       | Required |
+| Enchanted Book (Protection IV)                                                                       | Required |
+| Enchanted Iron                                                                                       | Required |
+| Budget Hopper                                                                                        | Required |
+| Golem Armor                                                                                          | Required |
+| Enchanted Iron Block                                                                                 | Required |
+| Golem Sword                                                                                          | Required |
+| Enchanted Hopper                                                                                     | Required |
 
 ### Gold 
 
-- Gold Minion
-- Cleaver
-- Enchanted Book (Looting II)
-- Enchanted Gold
-- Absorption Potion
-- Enchanted Book (Scavenger II)
-- Enchanted Gold Block
-- Enchanted Book (Fortune II)
-- Enchanted Clock (CS)
+|                                                Gold                                                  | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Gold Minion                                                                                          | Required |
+| Cleaver                                                                                              | Required |
+| Enchanted Book (Looting II)                                                                          | Required |
+| Enchanted Gold                                                                                       | Required |
+| Absorption Potion                                                                                    | Required |
+| Enchanted Book (Scavenger II)                                                                        | Required |
+| Enchanted Gold Block                                                                                 | Required |
+| Enchanted Book (Fortune II)                                                                          | Required |
+| Enchanted Clock (CS)                                                                                 | Required |
 
 ### Diamond 
 
-- Diamond Minion
-- Enchanted Book (Execute IV))
-- Portal to the Deep Caverns
-- Enchanted Diamond
-- Enchanted Book (Critical IV)
-- Diamond Spreading
-- Hardened Diamond (Set)
-- Enchanted Diamond Block
-- Perfect Set - Tier I
+|                                               Diamond                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Diamond Minion                                                                                       | Required |
+| Enchanted Book (Execute IV))                                                                         | Required |
+| Portal to the Deep Caverns                                                                           | Required |
+| Enchanted Diamond                                                                                    | Required |
+| Enchanted Book (Critical IV)                                                                         | Required |
+| Diamond Spreading                                                                                    | Required |
+| Hardened Diamond (Set)                                                                               | Required |
+| Enchanted Diamond Block                                                                              | Required |
+| Perfect Set - Tier I                                                                                 | Required |
 
 ### Lapis Lazuli
 
-- Lapis Minion
-- Experience Bottle
-- Enchanted Book (Experience II)
-- Enchanted Lapis Lazuli
-- Grand Experience Bottle
-- Experience Potions
-- Enchanted Lapis Block
-- Titanic Experience Bottle
-- Experience Artifact
+|                                             Lapis Lazuli                                             | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Lapis Minion                                                                                         | Required |
+| Experience Bottle                                                                                    | Required |
+| Enchanted Book (Experience II)                                                                       | Required |
+| Enchanted Lapis Lazuli                                                                               | Required |
+| Grand Experience Bottle                                                                              | Required |
+| Experience Potions                                                                                   | Required |
+| Enchanted Lapis Block                                                                                | Required |
+| Titanic Experience Bottle                                                                            | Required |
+| Experience Artifact                                                                                  | Required |
 
 ### Emerald
 
-- Emerald Minion
-- Talisman of Coins
-- Magnetic Talisman
-- Enchanted Emerald
-- Emerald Rind (CS)
-- Personal Bank Upgrade
-- Enchanted Emerald Block
-- Emerald Blade
-- Emerald Armor
+|                                               Emerald                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Emerald Minion                                                                                       | Required |
+| Talisman of Coins                                                                                    | Required |
+| Magnetic Talisman                                                                                    | Required |
+| Enchanted Emerald                                                                                    | Required |
+| Emerald Rind (CS)                                                                                    | Required |
+| Personal Bank Upgrade                                                                                | Required |
+| Enchanted Emerald Block                                                                              | Required |
+| Emerald Blade                                                                                        | Required |
+| Emerald Armor                                                                                        | Required |
 
 ### Redstone
 
-- Redstone Minion
-- Small Talisman Bag Upgrade
-- Enchanted Book (Efficiency IV)
-- Enchanted Redstone
-- Compass Talisman (CS)
-- Weather Stick
-- Medium Talisman Bag Upgrade
-- Enchanted Redstone Block
-- Large Talisman Bag Upgrade
-- Greater Talisman Bag Upgrade
+|                                               Redstone                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Redstone Minion                                                                                      | Required |
+| Small Talisman Bag Upgrade                                                                           | Required |
+| Enchanted Book (Efficiency IV)                                                                       | Required |
+| Enchanted Redstone                                                                                   | Required |
+| Compass Talisman (CS)                                                                                | Required |
+| Weather Stick                                                                                        | Required |
+| Medium Talisman Bag Upgrade                                                                          | Required |
+| Enchanted Redstone Block                                                                             | Required |
+| Large Talisman Bag Upgrade                                                                           | Required |
+| Greater Talisman Bag Upgrade                                                                         | Required |
 
 ### Nether Quartz
 
+|                                            Nether Quartz                                             | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Obsidian
+
+|                                               Obsidian                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
 
 ### Glowstone Dust
 
-- Glowstone Minion
-- Portal to Blazing Fortress
-- 75 Mining Experience
-- Enchanted Glowstone Dust
-- 750 Mining Experience
-- Enchanted Glowstone
-- Enchanted Redstone Lamp
-- Glowstone Hat (CS)
-- 15000 Mining Experience
+|                                            Glowstone Dust                                            | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Glowstone Minion                                                                                     | Required |
+| Portal to Blazing Fortress                                                                           | Required |
+| 75 Mining Experience                                                                                 | Required |
+| Enchanted Glowstone Dust                                                                             | Required |
+| 750 Mining Experience                                                                                | Required |
+| Enchanted Glowstone                                                                                  | Required |
+| Enchanted Redstone Lamp                                                                              | Required |
+| Glowstone Hat (CS)                                                                                   | Required |
+| 15000 Mining Experience                                                                              | Required |
 
 ### Gravel
 
+|                                                Gravel                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Ice
+
+|                                                 Ice                                                  | Required |
+|------------------------------------------------------------------------------------------------------|----------|
 
 ### Netherrack
 
+|                                              Netherrack                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Sand
 
+|                                                 Sand                                                 | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### End Stone
+
+|                                              End Stone                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
 
 ---
 
@@ -344,95 +462,157 @@
 
 ### Rotten Flesh
 
-- Zombie Minion
-- Zombie Pickaxe
-- Enchanted Book (Smite IV)
-- Enchanted Rotten Flesh
-- Zombie Hat
-- Zombie's Heart
-- Zombie Sword
-- Zombie Chestplate  
-  Zombie Leggings  
-  Zombie Boots
-- Zombie Pet Egg (CS)
+<table>
+  <thead>
+    <tr>
+      <td>Rotten Flesh</td>
+      <td>Required</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Zombie Minion</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Pickaxe</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Smite IV)</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Enchanted Rotten Flesh</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Hat</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie's Heart</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Sword</td>
+      <td>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Chestplate</td>
+      <td rowspan=3>Required</td>
+    </tr>
+    <tr>
+      <td>Zombie Leggings</td>
+    </tr>
+    <tr>
+      <td>Zombie Boots</td>
+    </tr>
+    <tr>
+      <td>Zombie Pet Egg (CS)</td>
+      <td>Required</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Bone
 
-- Skeleton Minion
-- Enchanted Bone Meal
-- Enchanted Book (Power IV)
-- Skeleton Hat
-- Enchanted Bone
-- Skeleton Pet Egg (CS)
-- Hurricane Bow
-- Skeleton's Helmet
-- Runaan's Bow
+|                                                 Bone                                                 | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Skeleton Minion                                                                                      | Required |
+| Enchanted Bone Meal                                                                                  | Required |
+| Enchanted Book (Power IV)                                                                            | Required |
+| Skeleton Hat                                                                                         | Required |
+| Enchanted Bone                                                                                       | Required |
+| Skeleton Pet Egg (CS)                                                                                | Required |
+| Hurricane Bow                                                                                        | Required |
+| Skeleton's Helmet                                                                                    | Required |
+| Runaan's Bow                                                                                         | Required |
 
 ### String
 
-- Spider Minion
-- Web
-- Quiver Upgrade
-- Enchanted String
-- Enchanted Book (Silk Touch I)
-- Enchanted Book (Infinite Quiver II)
-- Grappling Hook
-- Spider's Boots
-- Spider Pet Egg (CS)
+|                                                String                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Spider Minion                                                                                        | Required |
+| Web                                                                                                  | Required |
+| Quiver Upgrade                                                                                       | Required |
+| Enchanted String                                                                                     | Required |
+| Enchanted Book (Silk Touch I)                                                                        | Required |
+| Enchanted Book (Infinite Quiver II)                                                                  | Required |
+| Grappling Hook                                                                                       | Required |
+| Spider's Boots                                                                                       | Required |
+| Spider Pet Egg (CS)                                                                                  | Required |
 
 ### Spider Eye
 
-- Cave Spider Minion
-- Spider Sword
-- Spider Hat
-- Enchanted Spider Eye
-- Enchanted Book (Bane of Anthropods IV)
-- Enchanted Book (Venomous IV)
-- Enchanted Fermented Spider Eye
-- Cave Spider Pet Egg (CS)
-- Leaping Sword
+|                                              Spider Eye                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Cave Spider Minion                                                                                   | Required |
+| Spider Sword                                                                                         | Required |
+| Spider Hat                                                                                           | Required |
+| Enchanted Spider Eye                                                                                 | Required |
+| Enchanted Book (Bane of Anthropods IV)                                                               | Required |
+| Enchanted Book (Venomous IV)                                                                         | Required |
+| Enchanted Fermented Spider Eye                                                                       | Required |
+| Cave Spider Pet Egg (CS)                                                                             | Required |
+| Leaping Sword                                                                                        | Required |
 
 ### Gunpowder
 
-- Creeper Minion
-- Creeper Hat
-- Enchanted Book (Blast Protection IV)
-- Enchanted Gunpowder
-- Enchanted Book (Thunderlord IV)
-- Enchanted Firework Rocket
-- Random Firework (CS)
-- Creeper Pants
-- Explosive Bow
+|                                              Gunpowder                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Creeper Minion                                                                                       | Required |
+| Creeper Hat                                                                                          | Required |
+| Enchanted Book (Blast Protection IV)                                                                 | Required |
+| Enchanted Gunpowder                                                                                  | Required |
+| Enchanted Book (Thunderlord IV)                                                                      | Required |
+| Enchanted Firework Rocket                                                                            | Required |
+| Random Firework (CS)                                                                                 | Required |
+| Creeper Pants                                                                                        | Required |
+| Explosive Bow                                                                                        | Required |
 
 ### Ender Pearl
 
-- Enderman Minion
-- Enchanted Ender Pearl
-- Enchanted Book (Ender Slayer IV)
-- End Island
-- Ender Bow
-- Enchanted Eye of Ender
-- Teleport Pad
-- Aspect of the End
-- Saving Grace
+|                                             Ender Pearl                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Enderman Minion                                                                                      | Required |
+| Enchanted Ender Pearl                                                                                | Required |
+| Enchanted Book (Ender Slayer IV)                                                                     | Required |
+| End Island                                                                                           | Required |
+| Ender Bow                                                                                            | Required |
+| Enchanted Eye of Ender                                                                               | Required |
+| Teleport Pad                                                                                         | Required |
+| Aspect of the End                                                                                    | Required |
+| Saving Grace                                                                                         | Required |
 
 ### Ghast Tear
 
+|                                              Ghast Tear                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Slimeball
 
-- Slime Minion
-- Slime Hat
-- Enchanted Book (Knockback I)
-- Knockback Potion
-- Enchanted Slimeball
-- Enchanted Book (Punch I)
-- Launch Pad
-- Enchanted Slime Block
-- Slime Bow
+|                                              Slimeball                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Slime Minion                                                                                         | Required |
+| Slime Hat                                                                                            | Required |
+| Enchanted Book (Knockback I)                                                                         | Required |
+| Knockback Potion                                                                                     | Required |
+| Enchanted Slimeball                                                                                  | Required |
+| Enchanted Book (Punch I)                                                                             | Required |
+| Launch Pad                                                                                           | Required |
+| Enchanted Slime Block                                                                                | Required |
+| Slime Bow                                                                                            | Required |
 
 ### Blaze Rod
 
+|                                              Blaze Rod                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Magma Cream
+
+|                                             Magma Cream                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
 
 ---
 
@@ -440,75 +620,87 @@
 
 ### Oak Wood
 
-- Oak Minion
-- Oak Leaves Trade
-- Leaflet Set
-- Small Storage
-- Forest Biome Stick
-- Enchanted Oak Wood
-- Medium Storage
-- Wood Affinity Talisman
-- Large Storage
+|                                               Oak Wood                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Oak Minion                                                                                           | Required |
+| Oak Leaves Trade                                                                                     | Required |
+| Leaflet Set                                                                                          | Required |
+| Small Storage                                                                                        | Required |
+| Forest Biome Stick                                                                                   | Required |
+| Enchanted Oak Wood                                                                                   | Required |
+| Medium Storage                                                                                       | Required |
+| Wood Affinity Talisman                                                                               | Required |
+| Large Storage                                                                                        | Required |
 
 ### Spruce Wood
 
-- Spruce Minion
-- Spruce Leaves Trade
-- Portal to Spruce Woods
-- Taiga Biome Stick
-- Enchanted Spruce Wood
-- Sawmill (CS)
-- 1000 Foraging Experience
-- Wolf Pet Egg (CS)
-- 5000 Foraging Experience
+|                                             Spruce Wood                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Spruce Minion                                                                                        | Required |
+| Spruce Leaves Trade                                                                                  | Required |
+| Portal to Spruce Woods                                                                               | Required |
+| Taiga Biome Stick                                                                                    | Required |
+| Enchanted Spruce Wood                                                                                | Required |
+| Sawmill (CS)                                                                                         | Required |
+| 1000 Foraging Experience                                                                             | Required |
+| Wolf Pet Egg (CS)                                                                                    | Required |
+| 5000 Foraging Experience                                                                             | Required |
 
 ### Birch Wood
 
-- Birch Minion
-- Birch Leaves Trade
-- Portal to Birch Park
-- 50 Foraging Experience
-- Birch Forest Biome Stick
-- 150 Foraging Experience
-- Enchanted Birch Wood
-- Woodcutting Crystal
-- 1000 Foraging Experience
+|                                              Birch Wood                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Birch Minion                                                                                         | Required |
+| Birch Leaves Trade                                                                                   | Required |
+| Portal to Birch Park                                                                                 | Required |
+| 50 Foraging Experience                                                                               | Required |
+| Birch Forest Biome Stick                                                                             | Required |
+| 150 Foraging Experience                                                                              | Required |
+| Enchanted Birch Wood                                                                                 | Required |
+| Woodcutting Crystal                                                                                  | Required |
+| 1000 Foraging Experience                                                                             | Required |
 
 ### Dark Oak Wood
 
-- Dark Oak Minion
-- Dark Oak Leaves Trade
-- Portal to Dark Thicket
-- Roofed Forest Biome Stick
-- Enchanted Dark Oak Wood
-- Roofed Forest Island
-- Enchanted Book (Growth IV)
-- Set of Growth
-- 5000 Foraging Experience
+|                                            Dark Oak Wood                                             | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Dark Oak Minion                                                                                      | Required |
+| Dark Oak Leaves Trade                                                                                | Required |
+| Portal to Dark Thicket                                                                               | Required |
+| Roofed Forest Biome Stick                                                                            | Required |
+| Enchanted Dark Oak Wood                                                                              | Required |
+| Roofed Forest Island                                                                                 | Required |
+| Enchanted Book (Growth IV)                                                                           | Required |
+| Set of Growth                                                                                        | Required |
+| 5000 Foraging Experience                                                                             | Required |
 
 ### Acacia Wood
 
-- Acacia Minion
-- Acacia Leaves Trade
-- Portal To Savanna Woodland
-- Super Torch (CS)
-- Savanna Biome Stick
-- Enchanted Acacia Wood
-- Savanna Bow
-- 1000 Foraging Experience
-- 2500 Foraging Experience
+|                                             Acacia Wood                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Acacia Minion                                                                                        | Required |
+| Acacia Leaves Trade                                                                                  | Required |
+| Portal To Savanna Woodland                                                                           | Required |
+| Super Torch (CS)                                                                                     | Required |
+| Savanna Biome Stick                                                                                  | Required |
+| Enchanted Acacia Wood                                                                                | Required |
+| Savanna Bow                                                                                          | Required |
+| 1000 Foraging Experience                                                                             | Required |
+| 2500 Foraging Experience                                                                             | Required |
 
 ### Jungle Wood
 
-- Jungle Minion
-- Jungle Leaves Trade
-- Portal to Jungle Island
-- Vines Trade
-- Jungle Biome Stick
-- Enchanted Jungle Wood
-- Jungle Axe
-- Ocelot Pet Egg (CS)
-- 5000 Foraging Experience
+|                                             Jungle Wood                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Jungle Minion                                                                                        | Required |
+| Jungle Leaves Trade                                                                                  | Required |
+| Portal to Jungle Island                                                                              | Required |
+| Vines Trade                                                                                          | Required |
+| Jungle Biome Stick                                                                                   | Required |
+| Enchanted Jungle Wood                                                                                | Required |
+| Jungle Axe                                                                                           | Required |
+| Ocelot Pet Egg (CS)                                                                                  | Required |
+| 5000 Foraging Experience                                                                             | Required |
 
 ---
 
@@ -516,63 +708,88 @@
 
 ### Raw Fish
 
+|                                               Raw Fish                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Raw Salmon
 
-- Minnow Bait
-- Dodge Potion
-- Enchanted Book (Lure IV)
-- Enchanted Raw Salmon
-- Speedster Rod
-- Fish Bait
-- Salmon Hat (CS?)
-- Enchanted Cooked Salmon
-- Salmon Armor (CS)
+|                                              Raw Salmon                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Minnow Bait                                                                                          | Required |
+| Dodge Potion                                                                                         | Required |
+| Enchanted Book (Lure IV)                                                                             | Required |
+| Enchanted Raw Salmon                                                                                 | Required |
+| Speedster Rod                                                                                        | Required |
+| Fish Bait                                                                                            | Required |
+| Salmon Hat (CS?)                                                                                     | Required |
+| Enchanted Cooked Salmon                                                                              | Required |
+| Salmon Armor (CS)                                                                                    | Required |
 
 ### Clownfish
 
+|                                              Clownfish                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Pufferfish
 
-- Pufferfish Hat
-- Enchanted Pufferfish
-- Enchanted Book (Cleave IV)
-- Enchanted Book (Depth Strider II)
-- Spiked Bait
-- Enchanted Book (Spiked Hook IV)
+|                                              Pufferfish                                              | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Pufferfish Hat                                                                                       | Required |
+| Enchanted Pufferfish                                                                                 | Required |
+| Enchanted Book (Cleave IV)                                                                           | Required |
+| Enchanted Book (Depth Strider II)                                                                    | Required |
+| Spiked Bait                                                                                          | Required |
+| Enchanted Book (Spiked Hook IV)                                                                      | Required |
 
 ### Prismarine Shard
 
+|                                           Prismarine Shard                                           | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+
 ### Prismarine Crystals
+
+|                                         Prismarine Crystals                                          | Required |
+|------------------------------------------------------------------------------------------------------|----------|
 
 ### Clay
 
-- Clay Minion
-- Enchanted Clay
-- Enchanted Book (Respiration II)
-- Enchanted Book (Frail IV)
-- Farmer's Rod
+|                                                 Clay                                                 | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Clay Minion                                                                                          | Required |
+| Enchanted Clay                                                                                       | Required |
+| Enchanted Book (Respiration II)                                                                      | Required |
+| Enchanted Book (Frail IV)                                                                            | Required |
+| Farmer's Rod                                                                                         | Required |
 
 ### Lily Pad
 
-- Spooky Bait
-- Blobfish Hat
-- Healing Talisman
-- Enchanted Lilypad
-- Challenging Rod
-- Whale Bait
-- Rod of Champions
-- Healing Ring
-- Rod of Legends
+|                                               Lily Pad                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Spooky Bait                                                                                          | Required |
+| Blobfish Hat                                                                                         | Required |
+| Healing Talisman                                                                                     | Required |
+| Enchanted Lilypad                                                                                    | Required |
+| Challenging Rod                                                                                      | Required |
+| Whale Bait                                                                                           | Required |
+| Rod of Champions                                                                                     | Required |
+| Healing Ring                                                                                         | Required |
+| Rod of Legends                                                                                       | Required |
 
 ### Ink Sack
 
-- Squid Hat
-- Dark Bait
-- Enchanted Ink Sack
-- Deep Ocean Biome Stick
-- Enchanted Book (Caster IV)
-- Blindness Potion
-- Enchanted Book (Angler IV)
-- Bait Ring
-- Ink Wand
+|                                               Ink Sack                                               | Required |
+|------------------------------------------------------------------------------------------------------|----------|
+| Squid Hat                                                                                            | Required |
+| Dark Bait                                                                                            | Required |
+| Enchanted Ink Sack                                                                                   | Required |
+| Deep Ocean Biome Stick                                                                               | Required |
+| Enchanted Book (Caster IV)                                                                           | Required |
+| Blindness Potion                                                                                     | Required |
+| Enchanted Book (Angler IV)                                                                           | Required |
+| Bait Ring                                                                                            | Required |
+| Ink Wand                                                                                             | Required |
 
 ### Sponge
+
+|                                                Sponge                                                | Required |
+|------------------------------------------------------------------------------------------------------|----------|
