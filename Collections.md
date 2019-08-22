@@ -659,15 +659,15 @@
 
 |                                              Gunpowder                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Creeper Minion                                                                                       | Required |
-| Creeper Hat                                                                                          | Required |
-| Enchanted Book (Blast Protection IV)                                                                 | Required |
-| Enchanted Gunpowder                                                                                  | Required |
-| Enchanted Book (Thunderlord IV)                                                                      | Required |
-| Enchanted Firework Rocket                                                                            | Required |
-| Random Firework (CS)                                                                                 | Required |
-| Creeper Pants                                                                                        | Required |
-| Explosive Bow                                                                                        | Required |
+| Creeper Minion                                                                                       | 50       |
+| Creeper Hat                                                                                          | 100      |
+| Enchanted Book (Blast Protection IV)                                                                 | 250      |
+| Enchanted Gunpowder                                                                                  | 1000     |
+| Enchanted Book (Thunderlord IV)                                                                      | 2500     |
+| Enchanted Firework Rocket                                                                            | 5000     |
+| Random Firework (CS)                                                                                 | 10000    |
+| Creeper Pants                                                                                        | 25000    |
+| Explosive Bow                                                                                        | 50000    |
 
 ### Ender Pearl
 
