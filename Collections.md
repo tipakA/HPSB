@@ -561,35 +561,35 @@
   <tbody>
     <tr>
       <td>Zombie Minion</td>
-      <td>Required</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>Zombie Pickaxe</td>
-      <td>Required</td>
+      <td>100</td>
     </tr>
     <tr>
       <td>Enchanted Book (Smite IV)</td>
-      <td>Required</td>
+      <td>250</td>
     </tr>
     <tr>
       <td>Enchanted Rotten Flesh</td>
-      <td>Required</td>
+      <td>1000</td>
     </tr>
     <tr>
       <td>Zombie Hat</td>
-      <td>Required</td>
+      <td>2500</td>
     </tr>
     <tr>
       <td>Zombie's Heart</td>
-      <td>Required</td>
+      <td>5000</td>
     </tr>
     <tr>
       <td>Zombie Sword</td>
-      <td>Required</td>
+      <td>10000</td>
     </tr>
     <tr>
       <td>Zombie Chestplate</td>
-      <td rowspan=3>Required</td>
+      <td rowspan=3>25000</td>
     </tr>
     <tr>
       <td>Zombie Leggings</td>
@@ -599,7 +599,7 @@
     </tr>
     <tr>
       <td>Zombie Pet Egg (CS)</td>
-      <td>Required</td>
+      <td>50000</td>
     </tr>
   </tbody>
 </table>
