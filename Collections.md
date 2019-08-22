@@ -622,15 +622,15 @@
 
 |                                                String                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Spider Minion                                                                                        | Required |
-| Web                                                                                                  | Required |
-| Quiver Upgrade                                                                                       | Required |
-| Enchanted String                                                                                     | Required |
-| Enchanted Book (Silk Touch I)                                                                        | Required |
-| Enchanted Book (Infinite Quiver II)                                                                  | Required |
-| Grappling Hook                                                                                       | Required |
-| Spider's Boots                                                                                       | Required |
-| Spider Pet Egg (CS)                                                                                  | Required |
+| Spider Minion                                                                                        | 50       |
+| Web                                                                                                  | 100      |
+| Quiver Upgrade                                                                                       | 250      |
+| Enchanted String                                                                                     | 1000     |
+| Enchanted Book (Silk Touch I)                                                                        | 2500     |
+| Enchanted Book (Infinite Quiver II)                                                                  | 5000     |
+| Grappling Hook                                                                                       | 10000    |
+| Spider's Boots                                                                                       | 25000    |
+| Spider Pet Egg (CS)                                                                                  | 50000    |
 
 ### Spider Eye
 
