@@ -112,17 +112,61 @@
 
 ### Pumpkin
 
-|                                               Pumpkin                                                | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Pumpkin Minion                                                                                       | 40       |
-| Pumpkin Set                                                                                          | 100      |
-| 25 Farming Experience                                                                                | 250      |
-| Enchanted Pumpkin                                                                                    | 1000     |
-| Enchanted Book (Cubism IV)                                                                           | 2500     |
-| Farmer Orb                                                                                           | 5000     |
-| Lantern Helmet                                                                                       | 10000    |
-| Farm Crystal                                                                                         | 25000    |
-| 5000 Farming Experience                                                                              | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Pumpkin</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pumpkin Minion</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Helmet</td>
+      <td rowspan=4>100</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Chestplate</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Leggings</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Boots</td>
+    </tr>
+    <tr>
+      <td>25 Farming Experience</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Enchanted Pumpkin</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Cubism IV)</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Farmer Orb</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Lantern Crystal</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Farm Crystal</td>
+      <td>25000</td>
+    </tr>
+    <tr>
+      <td>5000 Farming Experience</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Melon
 
