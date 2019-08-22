@@ -505,15 +505,15 @@
 
 |                                               Obsidian                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Obsidian Minion                                                                                      | Required |
-| Enchanted Book (Lethality IV)                                                                        | Required |
-| Gravity Talisman                                                                                     | Required |
-| Enchanted Obsidian                                                                                   | Required |
-| Enderchest Lv1 Upgrade                                                                               | Required |
-| Stun Potion                                                                                          | Required |
-| Enderchest Lv2 Upgrade                                                                               | Required |
-| Reforge Anvil                                                                                        | Required |
-| Enderchest Lv3 Upgrade                                                                               | Required |
+| Obsidian Minion                                                                                      | 50       |
+| Enchanted Book (Lethality IV)                                                                        | 100      |
+| Gravity Talisman                                                                                     | 250      |
+| Enchanted Obsidian                                                                                   | 1000     |
+| Enderchest Lv1 Upgrade                                                                               | 2500     |
+| Stun Potion                                                                                          | 5000     |
+| Enderchest Lv2 Upgrade                                                                               | 10000    |
+| Reforge Anvil                                                                                        | 25000    |
+| Enderchest Lv3 Upgrade                                                                               | 50000    |
 
 ### Glowstone Dust
 
