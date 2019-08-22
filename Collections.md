@@ -505,6 +505,15 @@
 
 |                                               Obsidian                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Obsidian Minion                                                                                      | Required |
+| Enchanted Book (Lethality IV)                                                                        | Required |
+| Gravity Talisman                                                                                     | Required |
+| Enchanted Obsidian                                                                                   | Required |
+| Enderchest Lv1 Upgrade                                                                               | Required |
+| Stun Potion                                                                                          | Required |
+| Enderchest Lv2 Upgrade                                                                               | Required |
+| Reforge Anvil                                                                                        | Required |
+| Enderchest Lv3 Upgrade                                                                               | Required |
 
 ### Glowstone Dust
 
