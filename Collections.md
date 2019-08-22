@@ -711,15 +711,15 @@
 
 |                                               Oak Wood                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Oak Minion                                                                                           | Required |
-| Oak Leaves Trade                                                                                     | Required |
-| Leaflet Set                                                                                          | Required |
-| Small Storage                                                                                        | Required |
-| Forest Biome Stick                                                                                   | Required |
-| Enchanted Oak Wood                                                                                   | Required |
-| Medium Storage                                                                                       | Required |
-| Wood Affinity Talisman                                                                               | Required |
-| Large Storage                                                                                        | Required |
+| Oak Minion                                                                                           | 50       |
+| Oak Leaves Trade                                                                                     | 100      |
+| Leaflet Set                                                                                          | 250      |
+| Small Storage                                                                                        | 500      |
+| Forest Biome Stick                                                                                   | 1000     |
+| Enchanted Oak Wood                                                                                   | 2000     |
+| Medium Storage                                                                                       | 5000     |
+| Wood Affinity Talisman                                                                               | 10000    |
+| Large Storage                                                                                        | 30000    |
 
 ### Spruce Wood
 
