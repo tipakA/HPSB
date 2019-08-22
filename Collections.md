@@ -673,15 +673,15 @@
 
 |                                             Ender Pearl                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Enderman Minion                                                                                      | Required |
-| Enchanted Ender Pearl                                                                                | Required |
-| Enchanted Book (Ender Slayer IV)                                                                     | Required |
-| End Island                                                                                           | Required |
-| Ender Bow                                                                                            | Required |
-| Enchanted Eye of Ender                                                                               | Required |
-| Teleport Pad                                                                                         | Required |
-| Aspect of the End                                                                                    | Required |
-| Saving Grace                                                                                         | Required |
+| Enderman Minion                                                                                      | 50       |
+| Enchanted Ender Pearl                                                                                | 250      |
+| Enchanted Book (Ender Slayer IV)                                                                     | 1000     |
+| End Island                                                                                           | 2500     |
+| Ender Bow                                                                                            | 5000     |
+| Enchanted Eye of Ender                                                                               | 10000    |
+| Teleport Pad                                                                                         | 15000    |
+| Aspect of the End                                                                                    | 25000    |
+| Saving Grace                                                                                         | 50000    |
 
 ### Ghast Tear
 
