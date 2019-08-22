@@ -771,17 +771,61 @@
 
 ### Oak Wood
 
-|                                               Oak Wood                                               | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Oak Minion                                                                                           | 50       |
-| Oak Leaves Trade                                                                                     | 100      |
-| Leaflet Set                                                                                          | 250      |
-| Small Storage                                                                                        | 500      |
-| Forest Biome Stick                                                                                   | 1000     |
-| Enchanted Oak Wood                                                                                   | 2000     |
-| Medium Storage                                                                                       | 5000     |
-| Wood Affinity Talisman                                                                               | 10000    |
-| Large Storage                                                                                        | 30000    |
+<table>
+  <thead>
+    <tr>
+      <th>Oak Wood</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Oak Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Oak Leaves Trade</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Leaflet Hat</td>
+      <td rowspan=4>250</td>
+    </tr>
+    <tr>
+      <td>Leaflet Tunic</td>
+    </tr>
+    <tr>
+      <td>Leaflet Pants</td>
+    </tr>
+    <tr>
+      <td>Leaflet Sandals</td>
+    </tr>
+    <tr>
+      <td>Small Storage</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td>Forest Biome Stick</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Oak Wood</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td>Medium Storage</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Wood Affinity Talisman</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Large Storage</td>
+      <td>30000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Spruce Wood
 
