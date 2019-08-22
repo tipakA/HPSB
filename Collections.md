@@ -813,15 +813,15 @@
 
 |                                              Raw Salmon                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Minnow Bait                                                                                          | Required |
-| Dodge Potion                                                                                         | Required |
-| Enchanted Book (Lure IV)                                                                             | Required |
-| Enchanted Raw Salmon                                                                                 | Required |
-| Speedster Rod                                                                                        | Required |
-| Fish Bait                                                                                            | Required |
-| Salmon Hat (CS?)                                                                                     | Required |
-| Enchanted Cooked Salmon                                                                              | Required |
-| Salmon Armor (CS)                                                                                    | Required |
+| Minnow Bait                                                                                          | 20       |
+| Dodge Potion                                                                                         | 50       |
+| Enchanted Book (Lure IV)                                                                             | 100      |
+| Enchanted Raw Salmon                                                                                 | 250      |
+| Speedster Rod                                                                                        | 500      |
+| Fish Bait                                                                                            | 1000     |
+| Salmon Hat (CS?)                                                                                     | 2500     |
+| Enchanted Cooked Salmon                                                                              | 5000     |
+| Salmon Armor (CS)                                                                                    | 10000    |
 
 ### Clownfish
 
