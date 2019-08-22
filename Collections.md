@@ -832,12 +832,12 @@
 
 |                                              Pufferfish                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Pufferfish Hat                                                                                       | Required |
-| Enchanted Pufferfish                                                                                 | Required |
-| Enchanted Book (Cleave IV)                                                                           | Required |
-| Enchanted Book (Depth Strider II)                                                                    | Required |
-| Spiked Bait                                                                                          | Required |
-| Enchanted Book (Spiked Hook IV)                                                                      | Required |
+| Pufferfish Hat                                                                                       | 20       |
+| Enchanted Pufferfish                                                                                 | 50       |
+| Enchanted Book (Cleave IV)                                                                           | 100      |
+| Enchanted Book (Depth Strider II)                                                                    | 150      |
+| Spiked Bait                                                                                          | 400      |
+| Enchanted Book (Spiked Hook IV)                                                                      | 800      |
 
 ### Prismarine Shard
 
