@@ -739,15 +739,15 @@
 
 |                                              Birch Wood                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Birch Minion                                                                                         | Required |
-| Birch Leaves Trade                                                                                   | Required |
-| Portal to Birch Park                                                                                 | Required |
-| 50 Foraging Experience                                                                               | Required |
-| Birch Forest Biome Stick                                                                             | Required |
-| 150 Foraging Experience                                                                              | Required |
-| Enchanted Birch Wood                                                                                 | Required |
-| Woodcutting Crystal                                                                                  | Required |
-| 1000 Foraging Experience                                                                             | Required |
+| Birch Minion                                                                                         | 50       |
+| Birch Leaves Trade                                                                                   | 100      |
+| Portal to Birch Park                                                                                 | 250      |
+| 50 Foraging Experience                                                                               | 500      |
+| Birch Forest Biome Stick                                                                             | 1000     |
+| 150 Foraging Experience                                                                              | 1500     |
+| Enchanted Birch Wood                                                                                 | 2000     |
+| Woodcutting Crystal                                                                                  | 5000     |
+| 1000 Foraging Experience                                                                             | 10000    |
 
 ### Dark Oak Wood
 
