@@ -863,15 +863,15 @@
 
 |                                               Lily Pad                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Spooky Bait                                                                                          | Required |
-| Blobfish Hat                                                                                         | Required |
-| Healing Talisman                                                                                     | Required |
-| Enchanted Lilypad                                                                                    | Required |
-| Challenging Rod                                                                                      | Required |
-| Whale Bait                                                                                           | Required |
-| Rod of Champions                                                                                     | Required |
-| Healing Ring                                                                                         | Required |
-| Rod of Legends                                                                                       | Required |
+| Spooky Bait                                                                                          | 10       |
+| Blobfish Hat                                                                                         | 50       |
+| Healing Talisman                                                                                     | 100      |
+| Enchanted Lilypad                                                                                    | 200      |
+| Challenging Rod                                                                                      | 500      |
+| Whale Bait                                                                                           | 1500     |
+| Rod of Champions                                                                                     | 3000     |
+| Healing Ring                                                                                         | 6000     |
+| Rod of Legends                                                                                       | 10000    |
 
 ### Ink Sack
 
