@@ -753,15 +753,15 @@
 
 |                                            Dark Oak Wood                                             | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Dark Oak Minion                                                                                      | Required |
-| Dark Oak Leaves Trade                                                                                | Required |
-| Portal to Dark Thicket                                                                               | Required |
-| Roofed Forest Biome Stick                                                                            | Required |
-| Enchanted Dark Oak Wood                                                                              | Required |
-| Roofed Forest Island                                                                                 | Required |
-| Enchanted Book (Growth IV)                                                                           | Required |
-| Set of Growth                                                                                        | Required |
-| 5000 Foraging Experience                                                                             | Required |
+| Dark Oak Minion                                                                                      | 50       |
+| Dark Oak Leaves Trade                                                                                | 100      |
+| Portal to Dark Thicket                                                                               | 250      |
+| Roofed Forest Biome Stick                                                                            | 1000     |
+| Enchanted Dark Oak Wood                                                                              | 2000     |
+| Roofed Forest Island                                                                                 | 5000     |
+| Enchanted Book (Growth IV)                                                                           | 10000    |
+| Set of Growth                                                                                        | 25000    |
+| 5000 Foraging Experience                                                                             | 50000    |
 
 ### Acacia Wood
 
