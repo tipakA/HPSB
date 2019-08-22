@@ -519,15 +519,15 @@
 
 |                                            Glowstone Dust                                            | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Glowstone Minion                                                                                     | Required |
-| Portal to Blazing Fortress                                                                           | Required |
-| 75 Mining Experience                                                                                 | Required |
-| Enchanted Glowstone Dust                                                                             | Required |
-| 750 Mining Experience                                                                                | Required |
-| Enchanted Glowstone                                                                                  | Required |
-| Enchanted Redstone Lamp                                                                              | Required |
-| Glowstone Hat (CS)                                                                                   | Required |
-| 15000 Mining Experience                                                                              | Required |
+| Glowstone Minion                                                                                     | 120      |
+| Portal to Blazing Fortress                                                                           | 300      |
+| 75 Mining Experience                                                                                 | 750      |
+| Enchanted Glowstone Dust                                                                             | 2000     |
+| 750 Mining Experience                                                                                | 7500     |
+| Enchanted Glowstone                                                                                  | 15000    |
+| Enchanted Redstone Lamp                                                                              | 30000    |
+| Glowstone Hat (CS)                                                                                   | 75000    |
+| 15000 Mining Experience                                                                              | 150000   |
 
 ### Gravel
 
