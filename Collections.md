@@ -608,15 +608,15 @@
 
 |                                                 Bone                                                 | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Skeleton Minion                                                                                      | Required |
-| Enchanted Bone Meal                                                                                  | Required |
-| Enchanted Book (Power IV)                                                                            | Required |
-| Skeleton Hat                                                                                         | Required |
-| Enchanted Bone                                                                                       | Required |
-| Skeleton Pet Egg (CS)                                                                                | Required |
-| Hurricane Bow                                                                                        | Required |
-| Skeleton's Helmet                                                                                    | Required |
-| Runaan's Bow                                                                                         | Required |
+| Skeleton Minion                                                                                      | 50       |
+| Enchanted Bone Meal                                                                                  | 100      |
+| Enchanted Book (Power IV)                                                                            | 250      |
+| Skeleton Hat                                                                                         | 500      |
+| Enchanted Bone                                                                                       | 1000     |
+| Skeleton Pet Egg (CS)                                                                                | 5000     |
+| Hurricane Bow                                                                                        | 10000    |
+| Skeleton's Helmet                                                                                    | 25000    |
+| Runaan's Bow                                                                                         | 50000    |
 
 ### String
 
