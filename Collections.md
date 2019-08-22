@@ -350,15 +350,15 @@
 
 |                                                Mutton                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Sheep Minion                                                                                         | Required |
-| 10 Farming Experience                                                                                | Required |
-| 25 Farming Experience                                                                                | Required |
-| Mana Potion                                                                                          | Required |
-| Enchanted Mutton                                                                                     | Required |
-| Enchanted Book (Rainbow I)                                                                           | Required |
-| Sheep Pet Egg (CS)                                                                                   | Required |
-| Enchanted Cooked Mutton                                                                              | Required |
-| Polymorph Wand (CS)                                                                                  | Required |
+| Sheep Minion                                                                                         | 50       |
+| 10 Farming Experience                                                                                | 100      |
+| 25 Farming Experience                                                                                | 250      |
+| Mana Potion                                                                                          | 1000     |
+| Enchanted Mutton                                                                                     | 2500     |
+| Enchanted Book (Rainbow I)                                                                           | 5000     |
+| Sheep Pet Egg (CS)                                                                                   | 10000    |
+| Enchanted Cooked Mutton                                                                              | 25000    |
+| Polymorph Wand (CS)                                                                                  | 50000    |
 
 ### Raw Rabbit
 
