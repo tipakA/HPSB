@@ -767,15 +767,15 @@
 
 |                                             Acacia Wood                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Acacia Minion                                                                                        | Required |
-| Acacia Leaves Trade                                                                                  | Required |
-| Portal To Savanna Woodland                                                                           | Required |
-| Super Torch (CS)                                                                                     | Required |
-| Savanna Biome Stick                                                                                  | Required |
-| Enchanted Acacia Wood                                                                                | Required |
-| Savanna Bow                                                                                          | Required |
-| 1000 Foraging Experience                                                                             | Required |
-| 2500 Foraging Experience                                                                             | Required |
+| Acacia Minion                                                                                        | 50       |
+| Acacia Leaves Trade                                                                                  | 100      |
+| Portal To Savanna Woodland                                                                           | 250      |
+| Super Torch (CS)                                                                                     | 500      |
+| Savanna Biome Stick                                                                                  | 1000     |
+| Enchanted Acacia Wood                                                                                | 2000     |
+| Savanna Bow                                                                                          | 5000     |
+| 1000 Foraging Experience                                                                             | 10000    |
+| 2500 Foraging Experience                                                                             | 25000    |
 
 ### Jungle Wood
 
