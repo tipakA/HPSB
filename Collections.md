@@ -441,17 +441,70 @@
 
 ### Diamond 
 
-|                                               Diamond                                                | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Diamond Minion                                                                                       | 50       |
-| Enchanted Book (Execute IV))                                                                         | 100      |
-| Portal to the Deep Caverns                                                                           | 250      |
-| Enchanted Diamond                                                                                    | 1000     |
-| Enchanted Book (Critical IV)                                                                         | 2500     |
-| Diamond Spreading                                                                                    | 5000     |
-| Hardened Diamond (Set)                                                                               | 10000    |
-| Enchanted Diamond Block                                                                              | 25000    |
-| Perfect Set - Tier I                                                                                 | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Diamond</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Diamond Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Execute IV)</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Portal to the Deep Caverns</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Enchanted Diamond</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Critical IV)</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Diamond Spreading</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Helmet</td>
+      <td rowspan=4>10000</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Chestplate</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Leggings</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Boots</td>
+    </tr>
+    <tr>
+      <td>Enchanted Diamond Block</td>
+      <td>25000</td>
+    </tr>
+    <tr>
+      <td>Perfect Helmet - Tier I</td>
+      <td rowspan=4>50000</td>
+    </tr>
+    <tr>
+      <td>Perfect Chestplate - Tier I</td>
+    </tr>
+    <tr>
+      <td>Perfect Leggings - Tier I</td>
+    </tr>
+    <tr>
+      <td>Perfect Boots - Tier I</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Lapis Lazuli
 
