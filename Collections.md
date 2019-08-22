@@ -364,15 +364,15 @@
 
 |                                              Raw Rabbit                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Rabbit Minion                                                                                        | Required |
-| Rabbit Pet Egg (CS)                                                                                  | Required |
-| Rabbit Potion                                                                                        | Required |
-| Enchanted Rabbit Foot                                                                                | Required |
-| Enchanted Book (Luck IV)                                                                             | Required |
-| Enchanted Rabbit Hide                                                                                | Required |
-| Enchanted Book (Luck of the Sea IV)                                                                  | Required |
-| Luck Talisman (CS)                                                                                   | Required |
-| 5000 Farming Experience                                                                              | Required |
+| Rabbit Minion                                                                                        | 50       |
+| Rabbit Pet Egg (CS)                                                                                  | 100      |
+| Rabbit Potion                                                                                        | 250      |
+| Enchanted Rabbit Foot                                                                                | 1000     |
+| Enchanted Book (Luck IV)                                                                             | 2500     |
+| Enchanted Rabbit Hide                                                                                | 5000     |
+| Enchanted Book (Luck of the Sea IV)                                                                  | 10000    |
+| Luck Talisman (CS)                                                                                   | 25000    |
+| 5000 Farming Experience                                                                              | 50000    |
 
 ### Nether Wart
 
