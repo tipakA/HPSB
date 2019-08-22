@@ -563,8 +563,8 @@
 <table>
   <thead>
     <tr>
-      <td>Rotten Flesh</td>
-      <td>Required</td>
+      <th>Rotten Flesh</th>
+      <th>Required</th>
     </tr>
   </thead>
   <tbody>
