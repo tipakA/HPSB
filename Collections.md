@@ -857,17 +857,61 @@
 
 ### Dark Oak Wood
 
-|                                            Dark Oak Wood                                             | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Dark Oak Minion                                                                                      | 50       |
-| Dark Oak Leaves Trade                                                                                | 100      |
-| Portal to Dark Thicket                                                                               | 250      |
-| Roofed Forest Biome Stick                                                                            | 1000     |
-| Enchanted Dark Oak Wood                                                                              | 2000     |
-| Roofed Forest Island                                                                                 | 5000     |
-| Enchanted Book (Growth IV)                                                                           | 10000    |
-| Set of Growth                                                                                        | 25000    |
-| 5000 Foraging Experience                                                                             | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Dark Oak Wood</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dark Oak Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Dark Oak Leaves Trade</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Portal to Dark Thicket</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Roofed Forest Biome Stick</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Dark Oak Wood</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td>Roofed Forest Island</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Growth IV)</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Helmet of Growth</td>
+      <td rowspan=4>25000</td>
+    </tr>
+    <tr>
+      <td>Chestplate of Growth</td>
+    </tr>
+    <tr>
+      <td>Leggings of Growth</td>
+    </tr>
+    <tr>
+      <td>Boots of Growth</td>
+    </tr>
+    <tr>
+      <td>5000 Foraging Experience</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Acacia Wood
 
