@@ -485,16 +485,16 @@
 
 |                                               Redstone                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Redstone Minion                                                                                      | Required |
-| Small Talisman Bag Upgrade                                                                           | Required |
-| Enchanted Book (Efficiency IV)                                                                       | Required |
-| Enchanted Redstone                                                                                   | Required |
-| Compass Talisman (CS)                                                                                | Required |
-| Weather Stick                                                                                        | Required |
-| Medium Talisman Bag Upgrade                                                                          | Required |
-| Enchanted Redstone Block                                                                             | Required |
-| Large Talisman Bag Upgrade                                                                           | Required |
-| Greater Talisman Bag Upgrade                                                                         | Required |
+| Redstone Minion                                                                                      | 100      |
+| Small Talisman Bag Upgrade                                                                           | 250      |
+| Enchanted Book (Efficiency IV)                                                                       | 750      |
+| Enchanted Redstone                                                                                   | 1500     |
+| Compass Talisman (CS)                                                                                | 3000     |
+| Weather Stick                                                                                        | 5000     |
+| Medium Talisman Bag Upgrade                                                                          | 10000    |
+| Enchanted Redstone Block                                                                             | 25000    |
+| Large Talisman Bag Upgrade                                                                           | 50000    |
+| Greater Talisman Bag Upgrade                                                                         | 200000   |
 
 ### Nether Quartz
 
