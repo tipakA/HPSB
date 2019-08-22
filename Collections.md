@@ -725,15 +725,15 @@
 
 |                                             Spruce Wood                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Spruce Minion                                                                                        | Required |
-| Spruce Leaves Trade                                                                                  | Required |
-| Portal to Spruce Woods                                                                               | Required |
-| Taiga Biome Stick                                                                                    | Required |
-| Enchanted Spruce Wood                                                                                | Required |
-| Sawmill (CS)                                                                                         | Required |
-| 1000 Foraging Experience                                                                             | Required |
-| Wolf Pet Egg (CS)                                                                                    | Required |
-| 5000 Foraging Experience                                                                             | Required |
+| Spruce Minion                                                                                        | 50       |
+| Spruce Leaves Trade                                                                                  | 100      |
+| Portal to Spruce Woods                                                                               | 250      |
+| Taiga Biome Stick                                                                                    | 1000     |
+| Enchanted Spruce Wood                                                                                | 2000     |
+| Sawmill (CS)                                                                                         | 5000     |
+| 1000 Foraging Experience                                                                             | 10000    |
+| Wolf Pet Egg (CS)                                                                                    | 25000    |
+| 5000 Foraging Experience                                                                             | 50000    |
 
 ### Birch Wood
 
