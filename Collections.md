@@ -636,15 +636,15 @@
 
 |                                              Spider Eye                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Cave Spider Minion                                                                                   | Required |
-| Spider Sword                                                                                         | Required |
-| Spider Hat                                                                                           | Required |
-| Enchanted Spider Eye                                                                                 | Required |
-| Enchanted Book (Bane of Anthropods IV)                                                               | Required |
-| Enchanted Book (Venomous IV)                                                                         | Required |
-| Enchanted Fermented Spider Eye                                                                       | Required |
-| Cave Spider Pet Egg (CS)                                                                             | Required |
-| Leaping Sword                                                                                        | Required |
+| Cave Spider Minion                                                                                   | 50       |
+| Spider Sword                                                                                         | 100      |
+| Spider Hat                                                                                           | 250      |
+| Enchanted Spider Eye                                                                                 | 1000     |
+| Enchanted Book (Bane of Anthropods IV)                                                               | 2500     |
+| Enchanted Book (Venomous IV)                                                                         | 5000     |
+| Enchanted Fermented Spider Eye                                                                       | 10000    |
+| Cave Spider Pet Egg (CS)                                                                             | 25000    |
+| Leaping Sword                                                                                        | 50000    |
 
 ### Gunpowder
 
