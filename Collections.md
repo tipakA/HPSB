@@ -692,15 +692,15 @@
 
 |                                              Slimeball                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Slime Minion                                                                                         | Required |
-| Slime Hat                                                                                            | Required |
-| Enchanted Book (Knockback I)                                                                         | Required |
-| Knockback Potion                                                                                     | Required |
-| Enchanted Slimeball                                                                                  | Required |
-| Enchanted Book (Punch I)                                                                             | Required |
-| Launch Pad                                                                                           | Required |
-| Enchanted Slime Block                                                                                | Required |
-| Slime Bow                                                                                            | Required |
+| Slime Minion                                                                                         | 50       |
+| Slime Hat                                                                                            | 100      |
+| Enchanted Book (Knockback I)                                                                         | 250      |
+| Knockback Potion                                                                                     | 1000     |
+| Enchanted Slimeball                                                                                  | 2500     |
+| Enchanted Book (Punch I)                                                                             | 5000     |
+| Launch Pad                                                                                           | 10000    |
+| Enchanted Slime Block                                                                                | 25000    |
+| Slime Bow                                                                                            | 50000    |
 
 ### Blaze Rod
 
