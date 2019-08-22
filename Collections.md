@@ -853,11 +853,11 @@
 
 |                                                 Clay                                                 | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Clay Minion                                                                                          | Required |
-| Enchanted Clay                                                                                       | Required |
-| Enchanted Book (Respiration II)                                                                      | Required |
-| Enchanted Book (Frail IV)                                                                            | Required |
-| Farmer's Rod                                                                                         | Required |
+| Clay Minion                                                                                          | 50       |
+| Enchanted Clay                                                                                       | 100      |
+| Enchanted Book (Respiration II)                                                                      | 250      |
+| Enchanted Book (Frail IV)                                                                            | 1000     |
+| Farmer's Rod                                                                                         | 2500     |
 
 ### Lily Pad
 
