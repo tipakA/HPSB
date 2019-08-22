@@ -877,15 +877,15 @@
 
 |                                               Ink Sack                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Squid Hat                                                                                            | Required |
-| Dark Bait                                                                                            | Required |
-| Enchanted Ink Sack                                                                                   | Required |
-| Deep Ocean Biome Stick                                                                               | Required |
-| Enchanted Book (Caster IV)                                                                           | Required |
-| Blindness Potion                                                                                     | Required |
-| Enchanted Book (Angler IV)                                                                           | Required |
-| Bait Ring                                                                                            | Required |
-| Ink Wand                                                                                             | Required |
+| Squid Hat                                                                                            | 20       |
+| Dark Bait                                                                                            | 40       |
+| Enchanted Ink Sack                                                                                   | 100      |
+| Deep Ocean Biome Stick                                                                               | 200      |
+| Enchanted Book (Caster IV)                                                                           | 400      |
+| Blindness Potion                                                                                     | 800      |
+| Enchanted Book (Angler IV)                                                                           | 1500     |
+| Bait Ring                                                                                            | 2500     |
+| Ink Wand                                                                                             | 4000     |
 
 ### Sponge
 
