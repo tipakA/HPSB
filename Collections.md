@@ -781,15 +781,15 @@
 
 |                                             Jungle Wood                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Jungle Minion                                                                                        | Required |
-| Jungle Leaves Trade                                                                                  | Required |
-| Portal to Jungle Island                                                                              | Required |
-| Vines Trade                                                                                          | Required |
-| Jungle Biome Stick                                                                                   | Required |
-| Enchanted Jungle Wood                                                                                | Required |
-| Jungle Axe                                                                                           | Required |
-| Ocelot Pet Egg (CS)                                                                                  | Required |
-| 5000 Foraging Experience                                                                             | Required |
+| Jungle Minion                                                                                        | 50       |
+| Jungle Leaves Trade                                                                                  | 100      |
+| Portal to Jungle Island                                                                              | 250      |
+| Vines Trade                                                                                          | 500      |
+| Jungle Biome Stick                                                                                   | 1000     |
+| Enchanted Jungle Wood                                                                                | 2000     |
+| Jungle Axe                                                                                           | 5000     |
+| Ocelot Pet Egg (CS)                                                                                  | 25000    |
+| 5000 Foraging Experience                                                                             | 50000    |
 
 ---
 
