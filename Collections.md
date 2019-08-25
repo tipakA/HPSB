@@ -551,6 +551,15 @@
 
 |                                                Gravel                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Gravel Minion                                                                                        | 50       |
+| Filnt Shovel                                                                                         | 100      |
+| Portal to Spider's Den                                                                               | 250      |
+| Enchanted Book (Sharpness IV)                                                                        | 1000     |
+| Enchanted Flint                                                                                      | 2500     |
+| Enchanted Book (First Strike III)                                                                    | 5000     |
+| Critical Potion                                                                                      | 10000    |
+| 2500 Mining Experience                                                                               | 25000    |
+| 5000 Mining Experience                                                                               | 50000    |
 
 ### Ice
 
