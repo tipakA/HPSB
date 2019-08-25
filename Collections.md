@@ -822,8 +822,62 @@
 
 ### Magma Cream
 
-|                                             Magma Cream                                              | Required |
-|------------------------------------------------------------------------------------------------------|----------|
+<table>
+  <thead>
+    <tr>
+      <th>Magma Cream</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Magma Cube Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Magma Cube Head</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Fire Protection IV)</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Nether Biome Stick</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Magma Cream</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Lava Bucket Trade</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Lava Talisman</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Helmet</td>
+      <td rowspan=3>25000</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Chestplate</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Leggings</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Boots</td>
+    </tr>
+    <tr>
+      <td>Magma Bow</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
