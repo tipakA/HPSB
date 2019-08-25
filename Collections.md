@@ -484,6 +484,15 @@
 
 |                                             Nether Wart                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Nether Wart Minion                                                                                   | 50       |
+| Small Potion Bag Upgrade (Unlocks potion bag)                                                        | 100      |
+| Potion Affinity Talisman                                                                             | 250      |
+| Enchanted Nether Wart                                                                                | 1000     |
+| Medium Potion Bag Upgrade                                                                            | 2500     |
+| 500 Alchemy Experience                                                                               | 5000     |
+| Potion Affinity Ring                                                                                 | 10000    |
+| Large Potion Bag Upgrade                                                                             | 25000    |
+| Potion Affinity Artifact                                                                             | 50000    |
 
 ---
 
@@ -659,6 +668,15 @@
 
 |                                            Nether Quartz                                             | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Quartz Minion                                                                                        | 50       |
+| Night Saver                                                                                          | 100      |
+| Day Saver                                                                                            | 250      |
+| Enchanted Quartz                                                                                     | 1000     |
+| Minion Expander                                                                                      | 2500     |
+| Enchanted Quartz Block                                                                               | 5000     |
+| Night Crystal                                                                                        | 10000    |
+| Day Crystal                                                                                          | 25000    |
+| Solar Panel                                                                                          | 50000    |
 
 ### Obsidian
 
@@ -692,26 +710,59 @@
 
 |                                                Gravel                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Gravel Minion                                                                                        | 50       |
+| Flint Shovel                                                                                         | 100      |
+| Portal to Spider's Den                                                                               | 250      |
+| Enchanted Book (Sharpness IV)                                                                        | 1000     |
+| Enchanted Flint                                                                                      | 2500     |
+| Enchanted Book (First Strike III)                                                                    | 5000     |
+| Critical Potion                                                                                      | 10000    |
+| 2500 Mining Experience                                                                               | 25000    |
+| 5000 Mining Experience                                                                               | 50000    |
 
 ### Ice
 
 |                                                 Ice                                                  | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Ice Minion                                                                                           | 50       |
+| Enchanted Book (Frost Walker I)                                                                      | 100      |
+| Packed Ice                                                                                           | 250      |
+| Enchanted Ice                                                                                        | 500      |
+| Magical Water Bucket                                                                                 | 1000     |
 
 ### Netherrack
 
 |                                              Netherrack                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Nether Wart Island                                                                                   | 50       |
+| Wounded Potion                                                                                       | 250      |
+| Nether Brick Trade                                                                                   | 500      |
 
 ### Sand
 
 |                                                 Sand                                                 | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Sand Minion                                                                                          | 50       |
+| Red Sand Trade                                                                                       | 100      |
+| Soul Sand Trade                                                                                      | 250      |
+| Desert Biome Stick                                                                                   | 500      |
+| Enchanted Sand                                                                                       | 1000     |
+| Burning Potion                                                                                       | 2500     |
+| Hard Glass                                                                                           | 5000     |
 
 ### End Stone
 
 |                                              End Stone                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| End Stone Minion                                                                                     | 50       |
+| End Biome Stick                                                                                      | 100      |
+| Portal to The End                                                                                    | 250      |
+| Enchanted End Stone                                                                                  | 1000     |
+| Silence Block                                                                                        | 2500     |
+| Haste Block                                                                                          | 5000     |
+| Endermite Pet Egg (CS)                                                                               | 10000    |
+| Catalyst                                                                                             | 25000    |
+| End Stone Sword                                                                                      | 50000    |
 
 ---
 
@@ -846,6 +897,15 @@
 
 |                                              Ghast Tear                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Ghast Minion                                                                                         | 50       |
+| Ghast Head                                                                                           | 250      |
+| Enchanted Book (Giant Killer IV)                                                                     | 1000     |
+| Enchanted Ghast Tear                                                                                 | 2500     |
+| Enchanted Book (Vampirism IV)                                                                        | 5000     |
+| Silver Fang                                                                                          | 10000    |
+| Ghast Armor (CS)                                                                                     | 15000    |
+| 2500 Combat Experience                                                                               | 25000    |
+| 5000 Combat Experience                                                                               | 50000    |
 
 ### Slimeball
 
@@ -863,13 +923,120 @@
 
 ### Blaze Rod
 
-|                                              Blaze Rod                                               | Required |
-|------------------------------------------------------------------------------------------------------|----------|
+<table>
+  <thead>
+    <tr>
+      <th>Blaze Rod</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blaze Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Blaze Hat (CS)</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Fire Aspect I)</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Enchanted Blaze Powder</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Fire Talisman</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Flame I)</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Blaze Rod</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Blaze Helmet</td>
+      <td rowspan=4>25000</td>
+    </tr>
+    <tr>
+      <td>Blaze Chestplate</td>
+    </tr>
+    <tr>
+      <td>Blaze Leggings</td>
+    </tr>
+    <tr>
+      <td>Blaze Boots</td>
+    </tr>
+    <tr>
+      <td>Blaze Pet Egg (CS)</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Magma Cream
 
-|                                             Magma Cream                                              | Required |
-|------------------------------------------------------------------------------------------------------|----------|
+<table>
+  <thead>
+    <tr>
+      <th>Magma Cream</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Magma Cube Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Magma Cube Head</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Fire Protection IV)</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Nether Biome Stick</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Magma Cream</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Lava Bucket Trade</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Lava Talisman</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Helmet</td>
+      <td rowspan=4>25000</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Chestplate</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Leggings</td>
+    </tr>
+    <tr>
+      <td>Armor of Magma Boots</td>
+    </tr>
+    <tr>
+      <td>Magma Bow</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -1053,8 +1220,62 @@
 
 ### Raw Fish
 
-|                                               Raw Fish                                               | Required |
-|------------------------------------------------------------------------------------------------------|----------|
+<table>
+  <thead>
+    <tr>
+      <th>Raw Fish</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fish Hat</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Fishing Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Small Fishing Bag (Unlocks Fishing Bag)</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Pond Island</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Angler Helmet</td>
+      <td rowspan=4>500</td>
+    </tr>
+    <tr>
+      <td>Angler Chestplate</td>
+    </tr>
+    <tr>
+      <td>Angler Leggings</td>
+    </tr>
+    <tr>
+      <td>Angler Boots</td>
+    </tr>
+    <tr>
+      <td>Enchanted Raw Fish</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Medium Fishing Bag Upgrade</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Cooked Fish</td>
+      <td>15000</td>
+    </tr>
+    <tr>
+      <td>Large Fishing Bag Upgrade</td>
+      <td>30000</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Raw Salmon
 
@@ -1074,6 +1295,9 @@
 
 |                                              Clownfish                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Clownfish Hat                                                                                        | 10       |
+| Water Bucket                                                                                         | 25       |
+| Enchanted Book (Magnet IV)                                                                           | 50       |
 
 ### Pufferfish
 
@@ -1090,6 +1314,11 @@
 
 |                                           Prismarine Shard                                           | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Enchanted Book (Impaling II)                                                                         | 10       |
+| Prismarine Blade                                                                                     | 25       |
+| Enchanted Prismarine Shard                                                                           | 50       |
+| Prismarine Rod                                                                                       | 100      |
+| Prismarine Bow                                                                                       | 200      |
 
 ### Prismarine Crystals
 
