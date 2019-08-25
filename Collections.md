@@ -509,6 +509,15 @@
 
 |                                            Nether Quartz                                             | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Quartz Minion                                                                                        | 50       |
+| Night Saver                                                                                          | 100      |
+| Day Saver                                                                                            | 250      |
+| Enchanted Quartz                                                                                     | 1000     |
+| Minion Expander                                                                                      | 2500     |
+| Enchanted Quartz Block                                                                               | 5000     |
+| Night Crystal                                                                                        | 10000    |
+| Day Crystal                                                                                          | 25000    |
+| Solar Panel                                                                                          | 50000    |
 
 ### Obsidian
 
