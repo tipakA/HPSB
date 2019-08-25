@@ -372,8 +372,17 @@
       <td>Speed Ring => Speed Artifact Upgrade</td>
     </tr>
     <tr>
-      <td>Speedster Set</td>
-      <td>50000</td>
+      <td>Speedster Helmet</td>
+      <td rowspan=4>50000</td>
+    </tr>
+    <tr>
+      <td>Speedster Chestplate</td>
+    </tr>
+    <tr>
+      <td>Speedster Leggings</td>
+    </tr>
+    <tr>
+      <td>Speedster Boots</td>
     </tr>
   </tbody>
 </table>
