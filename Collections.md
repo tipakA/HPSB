@@ -568,21 +568,28 @@
 | Ice Minion                                                                                           | 50       |
 | Enchanted Book (Frost Walker I)                                                                      | 100      |
 | Packed Ice                                                                                           | 250      |
-| Enchanted Ice                                                                                        | 1000     |
-| Magical Water Bucket                                                                                 | 2500     |
+| Enchanted Ice                                                                                        | 500      |
+| Magical Water Bucket                                                                                 | 1000     |
 
 ### Netherrack
 
 |                                              Netherrack                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
 | Nether Wart Island                                                                                   | 50       |
-| Wounded Potion                                                                                       | 100      |
-| Nether Brick Trade                                                                                   | 250      |
+| Wounded Potion                                                                                       | 250      |
+| Nether Brick Trade                                                                                   | 500      |
 
 ### Sand
 
 |                                                 Sand                                                 | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Sand Minion                                                                                          | 50       |
+| Red Sand Trade                                                                                       | 100      |
+| Soul Sand Trade                                                                                      | 250      |
+| Desert Biome Stick                                                                                   | 500      |
+| Enchanted Sand                                                                                       | 1000     |
+| Burning Potion                                                                                       | 2500     |
+| Hard Glass                                                                                           | 5000     |
 
 ### End Stone
 
