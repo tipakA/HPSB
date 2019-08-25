@@ -318,7 +318,7 @@
 | Large Backpack                                                                                       | 25000    |
 | Horse Mount Egg (CS)                                                                                 | 50000    |
 
-### Porkchop
+### Raw Porkchop
 
 |                                             Raw Porkchop                                             | Required |
 |------------------------------------------------------------------------------------------------------|----------|
@@ -332,7 +332,7 @@
 | Pigmen Pet Egg (CS)                                                                                  | 25000    |
 | Pigman Sword                                                                                         | 50000    |
 
-### Chicken
+### Raw Chicken
 
 |                                             Raw Chicken                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
@@ -360,7 +360,7 @@
 | Enchanted Cooked Mutton                                                                              | 25000    |
 | Polymorph Wand (CS)                                                                                  | 50000    |
 
-### Rabbit
+### Raw Rabbit
 
 |                                              Raw Rabbit                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
@@ -802,7 +802,7 @@
     </tr>
     <tr>
       <td>Blaze Helmet</td>
-      <td rowspan=3>25000</td>
+      <td rowspan=4>25000</td>
     </tr>
     <tr>
       <td>Blaze Chestplate</td>
@@ -860,7 +860,7 @@
     </tr>
     <tr>
       <td>Armor of Magma Helmet</td>
-      <td rowspan=3>25000</td>
+      <td rowspan=4>25000</td>
     </tr>
     <tr>
       <td>Armor of Magma Chestplate</td>
@@ -973,8 +973,62 @@
 
 ### Raw Fish
 
-|                                               Raw Fish                                               | Required |
-|------------------------------------------------------------------------------------------------------|----------|
+<table>
+  <thead>
+    <tr>
+      <th>Raw Fish</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fish Hat</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Fishing Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Small Fishing Bag (Unlocks Fishing Bag)</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Pond Island</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Angler Helmet</td>
+      <td rowspan=4>500</td>
+    </tr>
+    <tr>
+      <td>Angler Chestplate</td>
+    </tr>
+    <tr>
+      <td>Angler Leggings</td>
+    </tr>
+    <tr>
+      <td>Angler Boots</td>
+    </tr>
+    <tr>
+      <td>Enchanted Raw Fish</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Medium Fishing Bag Upgrade</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Cooked Fish</td>
+      <td>15000</td>
+    </tr>
+    <tr>
+      <td>Large Fishing Bag Upgrade</td>
+      <td>30000</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Raw Salmon
 
