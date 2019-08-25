@@ -889,7 +889,7 @@
 | End Island                                                                                           | 2500     |
 | Ender Bow                                                                                            | 5000     |
 | Enchanted Eye of Ender                                                                               | 10000    |
-| Teleport Pad                                                                                         | 15000    |
+| Teleport Pad Trade                                                                                   | 15000    |
 | Aspect of the End                                                                                    | 25000    |
 | Saving Grace                                                                                         | 50000    |
 
