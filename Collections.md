@@ -552,7 +552,7 @@
 |                                                Gravel                                                | Required |
 |------------------------------------------------------------------------------------------------------|----------|
 | Gravel Minion                                                                                        | 50       |
-| Filnt Shovel                                                                                         | 100      |
+| Flint Shovel                                                                                         | 100      |
 | Portal to Spider's Den                                                                               | 250      |
 | Enchanted Book (Sharpness IV)                                                                        | 1000     |
 | Enchanted Flint                                                                                      | 2500     |
@@ -565,6 +565,11 @@
 
 |                                                 Ice                                                  | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Ice Minion                                                                                           | 50       |
+| Enchanted Book (Frost Walker I)                                                                      | 100      |
+| Packed Ice                                                                                           | 250      |
+| Enchanted Ice                                                                                        | 1000     |
+| Magical Water Bucket                                                                                 | 2500     |
 
 ### Netherrack
 
