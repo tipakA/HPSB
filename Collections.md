@@ -764,8 +764,61 @@
 
 ### Blaze Rod
 
-|                                              Blaze Rod                                               | Required |
-|------------------------------------------------------------------------------------------------------|----------|
+<table>
+  <thead>
+    <tr>
+      <th>Blaze Rod</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blaze Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Blaze Hat (CS)</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Fire Aspect I)</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Enchanted Blaze Powder</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Fire Talisman</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Flame I)</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Blaze Rod</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Blaze Helmet</td>
+      <td rowspan=3>25000</td>
+    </tr>
+    <tr>
+      <td>Blaze Chestplate</td>
+    </tr>
+    <tr>
+      <td>Blaze Leggings</td>
+    </tr>
+    <tr>
+      <td>Blaze Boots</td>
+    </tr>
+    <tr>
+      <td>Blaze Pet Egg (CS)</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Magma Cream
 
