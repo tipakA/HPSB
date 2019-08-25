@@ -112,17 +112,61 @@
 
 ### Pumpkin
 
-|                                               Pumpkin                                                | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Pumpkin Minion                                                                                       | 40       |
-| Pumpkin Set                                                                                          | 100      |
-| 25 Farming Experience                                                                                | 250      |
-| Enchanted Pumpkin                                                                                    | 1000     |
-| Enchanted Book (Cubism IV)                                                                           | 2500     |
-| Farmer Orb                                                                                           | 5000     |
-| Lantern Helmet                                                                                       | 10000    |
-| Farm Crystal                                                                                         | 25000    |
-| 5000 Farming Experience                                                                              | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Pumpkin</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pumpkin Minion</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Helmet</td>
+      <td rowspan=4>100</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Chestplate</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Leggings</td>
+    </tr>
+    <tr>
+      <td>Pumpkin Boots</td>
+    </tr>
+    <tr>
+      <td>25 Farming Experience</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Enchanted Pumpkin</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Cubism IV)</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Farmer Orb</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Lantern Crystal</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Farm Crystal</td>
+      <td>25000</td>
+    </tr>
+    <tr>
+      <td>5000 Farming Experience</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Melon
 
@@ -168,8 +212,17 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>Mushroom Set</td>
-      <td>250</td>
+      <td>Mushroom Helmet</td>
+      <td rowspan=4>250</td>
+    </tr>
+    <tr>
+      <td>Mushroom Chestplate</td>
+    </tr>
+    <tr>
+      <td>Mushroom Leggings</td>
+    </tr>
+    <tr>
+      <td>Mushroom Boots</td>
     </tr>
     <tr>
       <td>Magical Mushroom Soup</td>
@@ -223,17 +276,61 @@
 
 ### Cactus
 
-|                                                Cactus                                                | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Cactus Minion                                                                                        | 100      |
-| Cactus Set                                                                                           | 250      |
-| Resistance Potion                                                                                    | 500      |
-| Enchanted Cactus Green                                                                               | 1000     |
-| Desert Island                                                                                        | 2500     |
-| Enchanted Book (Piercing I)                                                                          | 5000     |
-| Enchanted Book (Thorns II)                                                                           | 10000    |
-| Enchanted Cactus                                                                                     | 25000    |
-| 5000 Farming Experience                                                                              | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Cactus</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cactus Minion</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Cactus Helmet</td>
+      <td rowspan=4>250</td>
+    </tr>
+    <tr>
+      <td>Cactus Chestplate</td>
+    </tr>
+    <tr>
+      <td>Cactus Leggings</td>
+    </tr>
+    <tr>
+      <td>Cactus Boots</td>
+    </tr>
+    <tr>
+      <td>Resistance Potion</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Cactus Green</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Desert Island</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Piercing I)</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Thorns II)</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Cactus</td>
+      <td>25000</td>
+    </tr>
+    <tr>
+      <td>5000 Farming Experience</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Sugar Cane
 
@@ -284,8 +381,17 @@
       <td>Speed Ring => Speed Artifact Upgrade</td>
     </tr>
     <tr>
-      <td>Speedster Set</td>
-      <td>50000</td>
+      <td>Speedster Helmet</td>
+      <td rowspan=4>50000</td>
+    </tr>
+    <tr>
+      <td>Speedster Chestplate</td>
+    </tr>
+    <tr>
+      <td>Speedster Leggings</td>
+    </tr>
+    <tr>
+      <td>Speedster Boots</td>
     </tr>
   </tbody>
 </table>
@@ -441,17 +547,70 @@
 
 ### Diamond 
 
-|                                               Diamond                                                | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Diamond Minion                                                                                       | 50       |
-| Enchanted Book (Execute IV))                                                                         | 100      |
-| Portal to the Deep Caverns                                                                           | 250      |
-| Enchanted Diamond                                                                                    | 1000     |
-| Enchanted Book (Critical IV)                                                                         | 2500     |
-| Diamond Spreading                                                                                    | 5000     |
-| Hardened Diamond (Set)                                                                               | 10000    |
-| Enchanted Diamond Block                                                                              | 25000    |
-| Perfect Set - Tier I                                                                                 | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Diamond</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Diamond Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Execute IV)</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Portal to the Deep Caverns</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Enchanted Diamond</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Critical IV)</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Diamond Spreading</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Helmet</td>
+      <td rowspan=4>10000</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Chestplate</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Leggings</td>
+    </tr>
+    <tr>
+      <td>Hardened Diamond Boots</td>
+    </tr>
+    <tr>
+      <td>Enchanted Diamond Block</td>
+      <td>25000</td>
+    </tr>
+    <tr>
+      <td>Perfect Helmet - Tier I</td>
+      <td rowspan=4>50000</td>
+    </tr>
+    <tr>
+      <td>Perfect Chestplate - Tier I</td>
+    </tr>
+    <tr>
+      <td>Perfect Leggings - Tier I</td>
+    </tr>
+    <tr>
+      <td>Perfect Boots - Tier I</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Lapis Lazuli
 
@@ -718,17 +877,61 @@
 
 ### Oak Wood
 
-|                                               Oak Wood                                               | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Oak Minion                                                                                           | 50       |
-| Oak Leaves Trade                                                                                     | 100      |
-| Leaflet Set                                                                                          | 250      |
-| Small Storage                                                                                        | 500      |
-| Forest Biome Stick                                                                                   | 1000     |
-| Enchanted Oak Wood                                                                                   | 2000     |
-| Medium Storage                                                                                       | 5000     |
-| Wood Affinity Talisman                                                                               | 10000    |
-| Large Storage                                                                                        | 30000    |
+<table>
+  <thead>
+    <tr>
+      <th>Oak Wood</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Oak Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Oak Leaves Trade</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Leaflet Hat</td>
+      <td rowspan=4>250</td>
+    </tr>
+    <tr>
+      <td>Leaflet Tunic</td>
+    </tr>
+    <tr>
+      <td>Leaflet Pants</td>
+    </tr>
+    <tr>
+      <td>Leaflet Sandals</td>
+    </tr>
+    <tr>
+      <td>Small Storage</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td>Forest Biome Stick</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Oak Wood</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td>Medium Storage</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Wood Affinity Talisman</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Large Storage</td>
+      <td>30000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Spruce Wood
 
@@ -760,17 +963,61 @@
 
 ### Dark Oak Wood
 
-|                                            Dark Oak Wood                                             | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Dark Oak Minion                                                                                      | 50       |
-| Dark Oak Leaves Trade                                                                                | 100      |
-| Portal to Dark Thicket                                                                               | 250      |
-| Roofed Forest Biome Stick                                                                            | 1000     |
-| Enchanted Dark Oak Wood                                                                              | 2000     |
-| Roofed Forest Island                                                                                 | 5000     |
-| Enchanted Book (Growth IV)                                                                           | 10000    |
-| Set of Growth                                                                                        | 25000    |
-| 5000 Foraging Experience                                                                             | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Dark Oak Wood</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dark Oak Minion</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Dark Oak Leaves Trade</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Portal to Dark Thicket</td>
+      <td>250</td>
+    </tr>
+    <tr>
+      <td>Roofed Forest Biome Stick</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Dark Oak Wood</td>
+      <td>2000</td>
+    </tr>
+    <tr>
+      <td>Roofed Forest Island</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Growth IV)</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Helmet of Growth</td>
+      <td rowspan=4>25000</td>
+    </tr>
+    <tr>
+      <td>Chestplate of Growth</td>
+    </tr>
+    <tr>
+      <td>Leggings of Growth</td>
+    </tr>
+    <tr>
+      <td>Boots of Growth</td>
+    </tr>
+    <tr>
+      <td>5000 Foraging Experience</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Acacia Wood
 
