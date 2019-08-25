@@ -1048,6 +1048,9 @@
 
 |                                              Clownfish                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Clownfish Hat                                                                                        | 10       |
+| Water Bucket                                                                                         | 25       |
+| Enchanted Book (Magnet IV)                                                                           | 50       |
 
 ### Pufferfish
 
