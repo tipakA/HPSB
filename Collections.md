@@ -1067,6 +1067,11 @@
 
 |                                           Prismarine Shard                                           | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Enchanted Book (Impaling II)                                                                         | 10       |
+| Prismarine Blade                                                                                     | 25       |
+| Enchanted Prismarine Shard                                                                           | 50       |
+| Prismarine Rod                                                                                       | 100      |
+| Prismarine Bow                                                                                       | 200      |
 
 ### Prismarine Crystals
 
