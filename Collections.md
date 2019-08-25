@@ -595,6 +595,15 @@
 
 |                                              End Stone                                               | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| End Stone Minion                                                                                     | 50       |
+| End Biome Stick                                                                                      | 100      |
+| Portal to The End                                                                                    | 250      |
+| Enchanted End Stone                                                                                  | 1000     |
+| Silence Block                                                                                        | 2500     |
+| Haste Block                                                                                          | 5000     |
+| Endermite Pet Egg (CS)                                                                               | 10000    |
+| Catalyst                                                                                             | 25000    |
+| End Stone Sword                                                                                      | 50000    |
 
 ---
 
