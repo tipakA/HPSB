@@ -318,7 +318,7 @@
 | Large Backpack                                                                                       | 25000    |
 | Horse Mount Egg (CS)                                                                                 | 50000    |
 
-### Raw Porkchop
+### Porkchop
 
 |                                             Raw Porkchop                                             | Required |
 |------------------------------------------------------------------------------------------------------|----------|
@@ -332,7 +332,7 @@
 | Pigmen Pet Egg (CS)                                                                                  | 25000    |
 | Pigman Sword                                                                                         | 50000    |
 
-### Raw Chicken
+### Chicken
 
 |                                             Raw Chicken                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
@@ -360,7 +360,7 @@
 | Enchanted Cooked Mutton                                                                              | 25000    |
 | Polymorph Wand (CS)                                                                                  | 50000    |
 
-### Raw Rabbit
+### Rabbit
 
 |                                              Raw Rabbit                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
@@ -378,6 +378,15 @@
 
 |                                             Nether Wart                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
+| Nether Wart Minion                                                                                   | 50       |
+| Small Potion Bag Upgrade (Unlocks potion bag)                                                        | 100      |
+| Potion Affinity Talisman                                                                             | 250      |
+| Enchanted Nether Wart                                                                                | 1000     |
+| Medium Potion Bag Upgrade                                                                            | 2500     |
+| 500 Alchemy Experience                                                                               | 5000     |
+| Potion Affinity Ring                                                                                 | 10000    |
+| Large Potion Bag Upgrade                                                                             | 25000    |
+| Potion Affinity Artifact                                                                             | 50000    |
 
 ---
 
