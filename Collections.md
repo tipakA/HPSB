@@ -267,17 +267,61 @@
 
 ### Cactus
 
-|                                                Cactus                                                | Required |
-|------------------------------------------------------------------------------------------------------|----------|
-| Cactus Minion                                                                                        | 100      |
-| Cactus Set                                                                                           | 250      |
-| Resistance Potion                                                                                    | 500      |
-| Enchanted Cactus Green                                                                               | 1000     |
-| Desert Island                                                                                        | 2500     |
-| Enchanted Book (Piercing I)                                                                          | 5000     |
-| Enchanted Book (Thorns II)                                                                           | 10000    |
-| Enchanted Cactus                                                                                     | 25000    |
-| 5000 Farming Experience                                                                              | 50000    |
+<table>
+  <thead>
+    <tr>
+      <th>Cactus</th>
+      <th>Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cactus Minion</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Cactus Helmet</td>
+      <td rowspan=4>250</td>
+    </tr>
+    <tr>
+      <td>Cactus Chestplate</td>
+    </tr>
+    <tr>
+      <td>Cactus Leggings</td>
+    </tr>
+    <tr>
+      <td>Cactus Boots</td>
+    </tr>
+    <tr>
+      <td>Resistance Potion</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Cactus Green</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Desert Island</td>
+      <td>2500</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Piercing I)</td>
+      <td>5000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Book (Thorns II)</td>
+      <td>10000</td>
+    </tr>
+    <tr>
+      <td>Enchanted Cactus</td>
+      <td>25000</td>
+    </tr>
+    <tr>
+      <td>5000 Farming Experience</td>
+      <td>50000</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Sugar Cane
 
