@@ -212,8 +212,17 @@
       <td>100</td>
     </tr>
     <tr>
-      <td>Mushroom Set</td>
-      <td>250</td>
+      <td>Mushroom Helmet</td>
+      <td rowspan=4>250</td>
+    </tr>
+    <tr>
+      <td>Mushroom Chestplate</td>
+    </tr>
+    <tr>
+      <td>Mushroom Leggings</td>
+    </tr>
+    <tr>
+      <td>Mushroom Boots</td>
     </tr>
     <tr>
       <td>Magical Mushroom Soup</td>
