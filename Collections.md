@@ -897,13 +897,13 @@
 
 |                                              Ghast Tear                                              | Required |
 |------------------------------------------------------------------------------------------------------|----------|
-| Ghast Minion                                                                                         | 50       |
-| Ghast Head                                                                                           | 250      |
-| Enchanted Book (Giant Killer IV)                                                                     | 1000     |
-| Enchanted Ghast Tear                                                                                 | 2500     |
-| Enchanted Book (Vampirism IV)                                                                        | 5000     |
-| Silver Fang                                                                                          | 10000    |
-| Ghast Armor (CS)                                                                                     | 15000    |
+| Ghast Minion                                                                                         | 20       |
+| Ghast Head                                                                                           | 100      |
+| Enchanted Book (Giant Killer IV)                                                                     | 250      |
+| Enchanted Ghast Tear                                                                                 | 1000     |
+| Enchanted Book (Vampirism IV)                                                                        | 2500     |
+| Silver Fang                                                                                          | 5000     |
+| Ghast Armor (CS)                                                                                     | 10000    |
 | 2500 Combat Experience                                                                               | 25000    |
 | 5000 Combat Experience                                                                               | 50000    |
 
